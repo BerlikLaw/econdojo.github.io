@@ -32,7 +32,7 @@ This course takes an intermediate level approach to macroeconomic theory and its
 * [Lecture 9: Aggregate Demand and Aggregate Supply Analysis](/assets/e3120/E3120Slides9.pdf){:target="\_blank"}
 * [Lecture 10: Monetary Policy](/assets/e3120/E3120Slides10.pdf){:target="\_blank"}
 * [Lecture 11: Fiscal Policy](/assets/e3120/E3120Slides11.pdf){:target="\_blank"}
-* [Lecture 13: Macroeconomics in Open Economy](/assets/e3120/E3120Slides11.pdf){:target="\_blank"}
+* [Lecture 13: Macroeconomics in Open Economy](/assets/e3120/E3120Slides13.pdf){:target="\_blank"}
 * [A List of Useful Equations](/assets/e3120/Equations.pdf){:target="\_blank"}
 
 <div class="publications">
