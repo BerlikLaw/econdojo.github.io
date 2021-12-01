@@ -2,23 +2,27 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: Assistant Professor of Economics, Saint Louis University
 
 profile:
   align: right
   image: prof_pic.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  address: > 
+    <p style="font-size:15px; font-weight:bold">Contact 📮 </p>
+    <p style="font-size:13px">Davis-Shaughnessy Hall 467
+    <br>Chaifetz School of Business
+    <br>3674 Lindell Boulevard
+    <br>St. Louis, MO 63108-3397
+    <br>Phone: +1(314)977-2123
+    <br>Email: <a href="mailto:tanf@slu.edu" target="_blank">tanf [at] slu.edu </a></p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My research agenda is organized around three areas: `macroeconomics`, `Bayesian statistics`, and `evolutionary dynamics`. One line of my recent research develops frequency-domain approaches to solving dynamic incomplete information models with applications to monetary and fiscal policy. Another line develops Markov chain Monte Carlo methods for estimating high-dimensional dynamic stochastic general equilibrium models. I also conduct research on the evolution of cooperative and altruistic human behavior.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Currently, I am teaching [ECON 3120](/courses/e3120/) Intermediate Macroeconomics in Fall and [ECON 4310](/courses/e4310/) International Macroeconomics in Spring. I am also organizing the Chaifetz School Friday Research/Teaching [seminar series](/misc/seminar/).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Please send an email to me if you have any difficulty with links or downloads from this homepage.

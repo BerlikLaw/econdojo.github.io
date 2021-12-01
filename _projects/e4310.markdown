@@ -1,0 +1,10 @@
+---
+layout: page
+title: International Macroeconomics
+description: ECON 4310 • Spring 2022 • Saint Louis University
+img: /assets/img/ethereum.png
+importance: 2
+category: Undergraduate
+---
+
+International economics takes both the micro and macro perspectives to study how nations interact through trade of goods and services, flows of money, and investment. It can be divided into two interrelated subfields: international trade and international finance. This course adopts the macro perspective on international economics, building on the foundations developed in intermediate-level macroeconomics. It provides analytical tools and formal models to explain, in particular, balance of payments and exchange rate determination. Students are expected to apply this set of tools and models to understand current international macroeconomic events, forecast the behavior of the global economy, and assess the impact of real world policy choices.

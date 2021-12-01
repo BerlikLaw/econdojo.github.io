@@ -1,0 +1,35 @@
+---
+layout: page
+title: Applied Bayesian Statistics
+description: ECON 6xx0 • Spring 2023 • Saint Louis University
+img: /assets/img/dogecoin.png
+importance: 1
+category: Graduate
+---
+
+This course provides a detailed coverage of Bayesian inferential methods and their applications to a variety of problems drawn from economics and business. Starting with basic concepts of probability and inference, the treatment covers prior and posterior distributions, classical and MCMC simulation methods, regressions for univariate and multivariate outcomes, computation of the marginal likelihood and model choice, and estimation of dynamic stochastic general equilibrium (DSGE) models. The key learning objective is for students to develop *hands-on* Bayesian skills required to conduct data analysis useful for economic and financial decision making. The course will help prepare students entering doctoral education or starting careers in economics, finance, marketing, operations, accounting, political science, statistics, and biostatistics.
+
+<div class="publications">
+  <h2 class="topic">Class Information</h2>
+</div>
+* [Spring 2023 Syllabus](/assets/e6xx0/E6XX0syllabus.pdf){:target="\_blank"}
+* **Location:** Davis-Shaughnessy Hall XXX
+* **Time:** Monday 6:00pm-9:15pm
+* **Office hours:** TR 1:00pm-2:00pm & by appointment
+* **Zoom ID:** 366 140 2531
+
+<div class="publications">
+  <h2 class="topic">Lecture Slides</h2>
+</div>
+Under construction.
+
+<div class="publications">
+  <h2 class="topic">Mini Course: A Primer on Bayesian DSGE Models</h2>
+</div>
+* [Summer 2018 Syllabus](/assets/e6xx0/BDSGEsyllabus.pdf){:target="\_blank"}
+* [Overview](/assets/e6xx0/BayesianDSGE.pdf){:target="\_blank"}
+* [Part I: Solving Linear Rational Expectations Models](/assets/e6xx0/Part1.pdf){:target="\_blank"}
+* [Part II: Likelihood Evaluation of Linear DSGE Models](/assets/e6xx0/Part2.pdf){:target="\_blank"}
+* [Part III: Likelihood Evaluation of Nonlinear DSGE Models](/assets/e6xx0/Part3.pdf){:target="\_blank"}
+* [Part IV: Bayesian Inference for DSGE Models](/assets/e6xx0/Part4.pdf){:target="\_blank"}
+* [Part V: Advanced Topics](/assets/e6xx0/Part5.pdf){:target="\_blank"}

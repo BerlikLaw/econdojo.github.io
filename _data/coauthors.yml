@@ -1,14 +1,78 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Walker":
+  - firstname: ["Todd", "T.", "T. B.", "Todd B."]
+    url: https://walkertb.pages.iu.edu
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Shin":
+  - firstname: ["Minchul", "M."]
+    url: https://mcmcs.github.io
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Chib":
+  - firstname: ["Siddhartha", "S."]
+    url: http://apps.olin.wustl.edu/faculty/chib
+
+"Wu":
+  - firstname: ["Jieran", "J."]
+    url: https://sites.google.com/site/jieranwu
+
+"Han":
+  - firstname: ["Zhao", "Z."]
+    url: https://sites.google.com/site/zhaohaniub
+
+"Katz":
+  - firstname: ["Jerome", "J."]
+    url: https://www.slu.edu/business/about/faculty/katz-jerome.php
+
+"Volpe":
+  - firstname: ["Vincent", "V."]
+    url: https://www.slu.edu/business/about/faculty/volpe-vincent.php
+
+"Kelting":
+  - firstname: ["Katie", "K."]
+    url: https://www.slu.edu/business/about/faculty/kelting-katie.php
+
+"Wang":
+  - firstname: ["Frank", "F."]
+    url: https://www.slu.edu/business/about/faculty/wang-xu-frank.php
+
+"Gupta":
+  - firstname: ["Abhimanyu", "A."]
+    url: https://www.slu.edu/business/about/faculty/gupta-abhimanyu.php
+
+"Niederman":
+  - firstname: ["Fred", "F."]
+    url: https://www.slu.edu/business/about/faculty/niederman-fred.php
+
+"Fisher":
+  - firstname: ["James", "J."]
+    url: https://www.slu.edu/business/about/faculty/fisher-james.php
+
+"Bednarek":
+  - firstname: ["Heather", "H."]
+    url: https://www.slu.edu/business/about/faculty/bednarek-heather.php
+
+"Benmamoun":
+  - firstname: ["Mamoun", "M."]
+    url: https://www.slu.edu/business/about/faculty/benmamoun-mamoun.php
+
+"Singh":
+  - firstname: ["Nitish", "N."]
+    url: https://www.slu.edu/business/about/faculty/singh-nitish.php
+
+"Zhang":
+  - firstname: ["Xiao", "X."]
+    url: https://www.slu.edu/business/about/faculty/zhang-xiao.php
+
+"Sahin":
+  - firstname: ["Olgun", "O."]
+    url: https://www.slu.edu/business/about/faculty/sahin-olgun.php
+
+"Boyle":
+  - firstname: ["Brett", "B."]
+    url: https://www.slu.edu/business/about/faculty/boyle-brett.php
+
+"Zhao":
+  - firstname: ["Lei", "L."]
+    url: https://www.slu.edu/business/about/faculty/zhao-lei.php
 
 "Bach": 
   - firstname: ["Johann Sebastian", "J. S."]

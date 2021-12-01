@@ -1,0 +1,53 @@
+---
+layout: page
+title: Intermediate Macroeconomics
+description: ECON 3120 • Fall 2021 • Saint Louis University
+img: /assets/img/bitcoin.png
+importance: 1
+category: Undergraduate
+---
+
+This course takes an intermediate level approach to macroeconomic theory and its applications, building on the foundations developed in the principles of economics. It will provide analytical tools and formal models to explain the behavior of output, inflation, employment, interest rates, exchange rates, and other aggregate economic quantities. This set of tools is used to understand current economic issues, forecast the behavior of the economy, and assess the impact of policy choices. This course is meant to train students to think in a structured, analytically rigorous way about macroeconomic questions. This training will allow students to use macroeconomics as an analytical tool rather than a set of assorted theories. Finally, it will help prepare students entering graduate education or starting careers in management, finance, or economic policy-making.
+
+<div class="publications">
+  <h2 class="topic">Class Information</h2>
+</div>
+* [Fall 2021 Syllabus](/assets/e3120/E3120syllabus.pdf){:target="\_blank"}
+* **Location:** Davis-Shaughnessy Hall 274 :mask: <!-- https://emojipedia.org/ -->
+* **Time:** TR 9:30am-10:45am (Sec. 03), 11:00am-12:15pm (Sec. 04)
+* **Office hours:** TR 1:00pm-2:00pm & by appointment
+* **Zoom ID:** 366 140 2531
+
+<div class="publications">
+  <h2 class="topic">Introduction to Macroeconomimcs</h2>
+</div>
+* [Lecture 1: Economics: Foundations and Models](/assets/e3120/E3120Slides1.pdf){:target="\_blank"}
+* [Lecture 2: GDP: Measuring Total Production and Income](/assets/e3120/E3120Slides2.pdf){:target="\_blank"}
+* [Lecture 3: Unemployment and Inflation](/assets/e3120/E3120Slides3.pdf){:target="\_blank"}
+* [Lecture 4: Economic Growth, Financial System, and Business Cycles](/assets/e3120/E3120Slides4.pdf){:target="\_blank"}
+* [Lecture 5: The Facts of Growth](/assets/e3120/E3120Slides5.pdf){:target="\_blank"}
+* [Lecture 6: Aggregate Expenditure and Output in the Short Run](/assets/e3120/E3120Slides6.pdf){:target="\_blank"}
+* [Lecture 7: Money, Banks, and Federal Reserve System](/assets/e3120/E3120Slides7.pdf){:target="\_blank"}
+* [Lecture 8: Goods and Financial Markets: The IS-LM Model](/assets/e3120/E3120Slides8.pdf){:target="\_blank"}
+* [Lecture 9: Aggregate Demand and Aggregate Supply Analysis](/assets/e3120/E3120Slides9.pdf){:target="\_blank"}
+* [Lecture 10: Monetary Policy](/assets/e3120/E3120Slides10.pdf){:target="\_blank"}
+* [Lecture 11: Fiscal Policy](/assets/e3120/E3120Slides11.pdf){:target="\_blank"}
+* [Lecture 13: Macroeconomics in Open Economy](/assets/e3120/E3120Slides11.pdf){:target="\_blank"}
+* [A List of Useful Equations](/assets/e3120/Equations.pdf){:target="\_blank"}
+
+<div class="publications">
+  <h2 class="topic">Supplementary Materials</h2>
+</div>
+* [Lecture 1: A Tour of the Book](/assets/e3120/E3120lec1.pdf){:target="\_blank"}
+* [Lecture 2: The Goods Market](/assets/e3120/E3120lec2.pdf){:target="\_blank"}
+* [Lecture 3: Financial Markets](/assets/e3120/E3120lec3.pdf){:target="\_blank"}
+* [Lecture 4: Goods and Financial Markets: the IS-LM Model](/assets/e3120/E3120lec4.pdf){:target="\_blank"}
+* [Lecture 5: The Labor Market](/assets/e3120/E3120lec5.pdf){:target="\_blank"}
+* [Lecture 6: Putting All Markets Together: The AS-AD Model](/assets/e3120/E3120lec6.pdf){:target="\_blank"}
+* [Lecture 7: Phillips Curve, Natural Rate of Unemployment, and Inflation](/assets/e3120/E3120lec7.pdf){:target="\_blank"}
+* [Lecture 8: The Facts of Growth](/assets/e3120/E3120lec8.pdf){:target="\_blank"}
+* [Lecture 12: Expectations: The Basic Tools](/assets/e3120/E3120lec12.pdf){:target="\_blank"}
+* [Lecture 16: Openness in Goods and Financial Markets](/assets/e3120/E3120lec16.pdf){:target="\_blank"}
+* [Lecture 19: Monetary Policy](/assets/e3120/E3120lec19.pdf){:target="\_blank"}
+* [Lecture 20: Fiscal Policy](/assets/e3120/E3120lec20.pdf){:target="\_blank"}
+* [Appendix: A Math Refresher](/assets/e3120/E3120app.pdf){:target="\_blank"}
