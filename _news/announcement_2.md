@@ -4,4 +4,4 @@ date: 2021-08-10 15:59:00-0400
 inline: true
 ---
 
-Retweet: [Tesla 2020 impact report](/assets/misc/2020-tesla-impact-report.pdf){:target="\_blank"}
+[Tesla 2020 impact report](/assets/misc/2020-tesla-impact-report.pdf){:target="\_blank"}
