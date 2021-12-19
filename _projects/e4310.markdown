@@ -8,3 +8,13 @@ category: Undergraduate
 ---
 
 International economics takes both the micro and macro perspectives to study how nations interact through trade of goods and services, flows of money, and investment. It can be divided into two interrelated subfields: international trade and international finance. This course adopts the macro perspective on international economics, building on the foundations developed in intermediate-level macroeconomics. It provides analytical tools and formal models to explain, in particular, balance of payments and exchange rate determination. Students are expected to apply this set of tools and models to understand current international macroeconomic events, forecast the behavior of the global economy, and assess the impact of real world policy choices.
+
+<div class="publications">
+  <h2 class="topic">Class Information</h2>
+</div>
+* [Spring 2021 Syllabus](/assets/e3120/E3120syllabus.pdf){:target="\_blank"}
+* **Location:** Cook Hall 330 :mask: <!-- https://emojipedia.org/ -->
+* **Time:** TR 9:30am-10:45am<!-- , 11:00am-12:15pm (Sec. 04) -->
+* **Office hours:** TR 1:00pm-2:00pm & by appointment
+* **Discord:** [discord.gg/SsrNPEeP2P](https://discord.gg/SsrNPEeP2P){:target="\_blank"}
+* **Zoom ID:** 366 140 2531

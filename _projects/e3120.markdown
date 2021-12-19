@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Intermediate Macroeconomics
-description: ECON 3120 • Fall 2021 • Saint Louis University
+description: ECON 3120 • Spring 2022 • Saint Louis University
 img: /assets/img/bitcoin.png
 importance: 1
 category: Undergraduate
@@ -12,9 +12,9 @@ This course takes an intermediate level approach to macroeconomic theory and its
 <div class="publications">
   <h2 class="topic">Class Information</h2>
 </div>
-* [Fall 2021 Syllabus](/assets/e3120/E3120syllabus.pdf){:target="\_blank"}
-* **Location:** Davis-Shaughnessy Hall 274 :mask: <!-- https://emojipedia.org/ -->
-* **Time:** TR 9:30am-10:45am (Sec. 03), 11:00am-12:15pm (Sec. 04)
+* [Spring 2021 Syllabus](/assets/e3120/E3120syllabus.pdf){:target="\_blank"}
+* **Location:** Davis-Shaughnessy Hall 373 :mask: <!-- https://emojipedia.org/ -->
+* **Time:** TR 2:15pm-3:30pm<!-- , 11:00am-12:15pm (Sec. 04) -->
 * **Office hours:** TR 1:00pm-2:00pm & by appointment
 * **Discord:** [discord.gg/SsrNPEeP2P](https://discord.gg/SsrNPEeP2P){:target="\_blank"}
 * **Zoom ID:** 366 140 2531
