@@ -22,5 +22,5 @@ International economics takes both the micro and macro perspectives to study how
 <div class="publications">
   <h2 class="topic">Lecture Notes</h2>
 </div>
-* [Lecture 1: Introduction](/assets/e4310/E4310Slides1.pdf){:target="\_blank"
-* Supplementary Materials: [International Macroeconomics](http://www.columbia.edu/~mu2166/UIM/suw.pdf){:target="\_blank"} (by Schmitt-Grohe, Uribe, and Woodford)
+* [Lecture 1: Introduction](/assets/e4310/E4310Slides1.pdf){:target="\_blank"}
+* [Supplementary: International Macroeconomics](http://www.columbia.edu/~mu2166/UIM/suw.pdf){:target="\_blank"} (by Schmitt-Grohe, Uribe, and Woodford)
