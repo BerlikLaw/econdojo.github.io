@@ -3,7 +3,7 @@ layout: page
 permalink: /misc/seminar/
 title: Early Career Faculty Mentorship Program and Friday Research/Teaching Seminar Series
 description: 
-semesters: [Fall 2021 Schedule]
+semesters: [Spring 2022 Schedule]
 nav: false
 ---
 
