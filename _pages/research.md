@@ -12,7 +12,7 @@ children:
       permalink: /research/policy/
     - title: Frequency-Domain Methods
       permalink: /research/frequency/
-    - title: Bayesian DSGE Models
+    - title: Bayesian Econometrics
       permalink: /research/bayes/
     - title: Evolutionary Dynamics
       permalink: /research/evolution/

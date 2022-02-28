@@ -3,7 +3,7 @@ layout: page
 permalink: /research/bayes/
 title: Research
 description: A growing collection of academic papers.
-topics: [Bayesian DSGE Models]
+topics: [Bayesian Econometrics]
 nav: false
 ---
 
