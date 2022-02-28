@@ -3,7 +3,7 @@ layout: page
 permalink: /research/all/
 title: Research
 description: A growing collection of academic papers.
-topics: [Monetary and Fiscal Policy, Frequency-Domain Methods, Bayesian DSGE Models, Evolutionary Dynamics]
+topics: [Monetary and Fiscal Policy, Frequency-Domain Methods, Bayesian Econometrics, Evolutionary Dynamics]
 nav: false
 ---
 
