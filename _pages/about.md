@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Assistant Professor of Economics, Saint Louis University
+description: Associate Professor of Economics, Saint Louis University
 
 profile:
   align: right
