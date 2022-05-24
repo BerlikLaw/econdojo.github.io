@@ -6,7 +6,7 @@ description: Associate Professor of Economics, Saint Louis University
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   address: > 
     <p style="font-size:15px; font-weight:bold">Contact 📮 </p>
     <p style="font-size:13px">Davis-Shaughnessy Hall 467
