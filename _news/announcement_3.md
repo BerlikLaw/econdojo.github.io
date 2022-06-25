@@ -5,4 +5,4 @@ date: 2022-05-02 16:11:00-0400
 inline: true
 ---
 
-[Rocket Lab booster helicopter catch](https://www.youtube.com/watch?v=6nODVPGHQcc){:target="\_blank"}
+[Rocket Lab CAPSTONE lunar mission](https://www.rocketlabusa.com/assets/Uploads/CAPSTONE-launch-press-kit.pdf){:target="\_blank"}
