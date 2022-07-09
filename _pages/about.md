@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   address: > 
-    <p style="font-size:15px; font-weight:bold">Contact 📮 </p>
+    <p style="font-size:15px; font-weight:bold"><br>Contact 📮 </p>
     <p style="font-size:13px">Davis-Shaughnessy Hall 467
     <br>Chaifetz School of Business
     <br>3674 Lindell Boulevard
