@@ -12,9 +12,9 @@ This course takes an intermediate level approach to macroeconomic theory and its
 <div class="publications">
   <h2 class="topic">Class Information</h2>
 </div>
-* [Spring 2022 Syllabus](/assets/e3120/E3120syllabus.pdf){:target="\_blank"}
-* **Location:** Davis-Shaughnessy Hall 373 :mask: <!-- https://emojipedia.org/ -->
-* **Time:** TR 2:15pm-3:30pm<!-- , 11:00am-12:15pm (Sec. 04) -->
+* [Fall 2022 Syllabus](/assets/e3120/E3120syllabus.pdf){:target="\_blank"}
+* **Location:** Davis-Shaughnessy Hall 273 :mask: <!-- https://emojipedia.org/ -->
+* **Time:** TR 11:00am-12:15pm (Sec. 03), 2:15pm-3:30pm (Sec. 04)
 * **Office hours:** TR 1:00pm-2:00pm & by appointment
 * **Econ Hub:** [discord.gg/SsrNPEeP2P](https://discord.gg/SsrNPEeP2P){:target="\_blank"}
 * **Zoom link:** [slu.zoom.us/my/econdojo](https://slu.zoom.us/my/econdojo){:target="\_blank"}
