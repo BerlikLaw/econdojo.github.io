@@ -1,6 +1,6 @@
 ---
 layout: post
-title: z-Tran software copyright notice
+title: z-Tran software copyright notice (pinned)
 date: 2022-08-23 16:11:00-0400
 inline: false
 ---
