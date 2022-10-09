@@ -109,6 +109,13 @@
       <a href="{{ entry.pdf | prepend: '/assets/papers/' | relative_url }}" class="btn btn-sm z-depth-0" role="button" target="_blank">PDF</a>
       {% endif %}
     {% endif %}
+    {% if entry.ppt %}
+      {% if entry.ppt contains '://' %}
+      <a href="{{ entry.ppt }}" class="btn btn-sm z-depth-0" role="button" target="_blank">PPT</a>
+      {% else %}
+      <a href="{{ entry.ppt | prepend: '/assets/papers/' | relative_url }}" class="btn btn-sm z-depth-0" role="button" target="_blank">PPT</a>
+      {% endif %}
+    {% endif %}
     {% if entry.supp %}
       {% if entry.supp contains '://' %}
       <a href="{{ entry.supp }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Supp</a>
