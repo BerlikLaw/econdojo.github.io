@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   address: > 
     <p style="font-size:15px; font-weight:bold"><br>Contact 📮 </p>
-    <p style="font-size:13px">Davis-Shaughnessy Hall 467
+    <p style="font-size:13px">Davis-Shaughnessy Hall 469A
     <br>Chaifetz School of Business
     <br>3674 Lindell Boulevard
     <br>St. Louis, MO 63108-3397
