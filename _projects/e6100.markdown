@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Applied Bayesian Statistics
-description: ECON 6xx0 • Spring 2023 • Saint Louis University
-img: /assets/img/dogecoin.png
+description: ECON 6100 • Spring 2023 • Saint Louis University
+img: /assets/img/model-s.jpg
 importance: 1
 category: Graduate
 ---
