@@ -12,7 +12,7 @@ TBA.
 <div class="publications">
   <h2 class="topic">Class Information</h2>
 </div>
-* [Summer 2023 Syllabus](/assets/e6120/E6120syllabus.pdf){:target="\_blank"}
+* [Summer 2022 Syllabus](/assets/e6120/E6120syllabus.pdf){:target="\_blank"}
 * **Location:** Davis-Shaughnessy Hall 273 :mask: <!-- https://emojipedia.org/ -->
 * **Time:** TR 11:00am-12:15pm
 * **Office hours:** TR 1:00pm-2:00pm & by appointment
