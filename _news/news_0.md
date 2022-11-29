@@ -1,7 +1,7 @@
 ---
 layout: post
 title: [Pinned] z-Tran copyright & academic integrity
-date: 2022-11-25 16:11:00-0400
+date: 2022-11-25 15:11:00-0400
 inline: false
 ---
 
