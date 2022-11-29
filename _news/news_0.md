@@ -9,19 +9,6 @@ inline: false
 
 We also strongly condemn Zhao Han's appropriation of our intellectual property (both ideas and codes) in his own paper, which makes several false claims and constitutes a violation of academic integrity. We cannot agree with him that economics papers are all about telling stories (to quote his comment here). Rather, we believe that economics research is not only about story-telling, but also rigorous scientific exploration. Therefore, we urge Zhao Han to post the codes of all his papers in the public domain so that the results can be verified for their correctness.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/ZHcheat.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-    </div>
-</div>
-<div class="caption">
-    Research is a repeated game, stop cheating.
-</div>
-
 ***
 
 Copyright (c) 2020-2022, Fei Tan, Jieran Wu
