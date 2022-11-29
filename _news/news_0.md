@@ -1,6 +1,6 @@
 ---
 layout: post
-title: z-Tran copyright & academic integrity (pinned)
+title: [Pinned] z-Tran copyright & academic integrity
 date: 2022-11-25 16:11:00-0400
 inline: false
 ---
