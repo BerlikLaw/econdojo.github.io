@@ -1,11 +1,26 @@
 ---
 layout: post
 title: z-Tran software copyright notice (pinned)
-date: 2022-08-23 16:11:00-0400
+date: 2030-01-01 16:11:00-0400
 inline: false
 ---
 
 [z-Tran](https://github.com/econdojo/ztran) is a software that Fei Tan and Jieran Wu developed for implementing our analytic policy function iteration algorithm. To avoid misinterpretation about its contributors, we have updated the software's copyright notice (see [startup.m](https://github.com/econdojo/ztran/blob/main/startup.m) and [LICENSE](https://github.com/econdojo/ztran/blob/main/LICENSE)) under the BSD 3-Clause "New" or "Revised" License. We thank Zhao Han for testing the software on various models and providing helpful user feedback. Nevertheless, Zhao Han played no role in developing the theory, algorithm, and code; therefore, he should <em>not</em> be interpreted as an author of the software or the original [paper](https://doi.org/10.1016/j.jet.2021.105395).
+
+We also strongly condemn Zhao Han's appropriation of our intellectual property (both ideas and codes) in his own paper, which makes several false claims and constitutes a violation of academic integrity. We cannot agree with him that economics papers are all about telling stories (to quote his comment here). Rather, we believe that economics research is not only about story-telling, but also rigorous scientific exploration. Therefore, we urge Zhao Han to post the codes of all his papers in the public domain so that the results can be verified for their correctness.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/ZHcheat.jpg' | relative_url }}" alt="" title="example image"/>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+    </div>
+</div>
+<div class="caption">
+    Research is a repeated game, stop cheating.
+</div>
 
 ***
 
