@@ -26,10 +26,10 @@ Under construction.
 <div class="publications">
   <h2 class="topic">Mini Course: A Primer on Bayesian DSGE Models</h2>
 </div>
-* [Summer 2018 Syllabus](/assets/e6xx0/BDSGEsyllabus.pdf){:target="\_blank"}
-* [Overview](/assets/e6xx0/BayesianDSGE.pdf){:target="\_blank"}
-* [Part I: Solving Linear Rational Expectations Models](/assets/e6xx0/Part1.pdf){:target="\_blank"}
-* [Part II: Likelihood Evaluation of Linear DSGE Models](/assets/e6xx0/Part2.pdf){:target="\_blank"}
-* [Part III: Likelihood Evaluation of Nonlinear DSGE Models](/assets/e6xx0/Part3.pdf){:target="\_blank"}
-* [Part IV: Bayesian Inference for DSGE Models](/assets/e6xx0/Part4.pdf){:target="\_blank"}
-* [Part V: Advanced Topics](/assets/e6xx0/Part5.pdf){:target="\_blank"}
+* [Summer 2018 Syllabus](/assets/e6930/BDSGEsyllabus.pdf){:target="\_blank"}
+* [Overview](/assets/e6930/BayesianDSGE.pdf){:target="\_blank"}
+* [Part I: Solving Linear Rational Expectations Models](/assets/e6930/Part1.pdf){:target="\_blank"}
+* [Part II: Likelihood Evaluation of Linear DSGE Models](/assets/e6930/Part2.pdf){:target="\_blank"}
+* [Part III: Likelihood Evaluation of Nonlinear DSGE Models](/assets/e6930/Part3.pdf){:target="\_blank"}
+* [Part IV: Bayesian Inference for DSGE Models](/assets/e6930/Part4.pdf){:target="\_blank"}
+* [Part V: Advanced Topics](/assets/e6930/Part5.pdf){:target="\_blank"}
