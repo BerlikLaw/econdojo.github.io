@@ -6,7 +6,7 @@ description: Economist @ SLU, space investor, day trader, Tesla fanatic.
 
 profile:
   align: right
-  image: prof_pic.png
+  image: prof_pic.jpg
   address: > 
     <p style="font-size:15px; font-weight:bold"><br>Contact 📮 </p>
     <p style="font-size:13px">Davis-Shaughnessy Hall 469A
