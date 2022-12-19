@@ -21,7 +21,7 @@ This course provides a detailed coverage of Bayesian inferential methods and the
 <div class="publications">
   <h2 class="topic">Lecture Slides</h2>
 </div>
-Under construction.
+* [Lecture 1: Basic Concepts of Probability and Inference](/assets/e6930/E6930Slides1.pdf){:target="\_blank"}
 
 <div class="publications">
   <h2 class="topic">Mini Course: A Primer on Bayesian DSGE Models</h2>
