@@ -13,7 +13,7 @@ This course provides a detailed coverage of Bayesian inferential methods and the
   <h2 class="topic">Class Information</h2>
 </div>
 * [Spring 2023 Syllabus](/assets/e6930/E6930syllabus.pdf){:target="\_blank"}
-* **Location:** Davis-Shaughnessy Hall 373
+* **Location:** Davis-Shaughnessy Hall 373 :mask:
 * **Time:** Wednesday 6:00pm-9:15pm
 * **Office hours:** MW 1:00pm-2:00pm & by appointment
 * **Zoom ID:** 366 140 2531
