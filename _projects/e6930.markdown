@@ -2,7 +2,7 @@
 layout: page
 title: Applied Bayesian Statistics
 description: ECON 6930 • Spring 2023 • Saint Louis University
-img: /assets/img/model-s.png
+img: /assets/img/model-s.jpg
 importance: 1
 category: Graduate
 ---

@@ -2,7 +2,7 @@
 layout: page
 title: Applied Macroeconomics
 description: ECON 6120 • Summer 2023 • Saint Louis University
-img: /assets/img/model-3.png
+img: /assets/img/model-3.jpg
 importance: 2
 category: Graduate
 ---
