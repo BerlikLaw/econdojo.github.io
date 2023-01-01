@@ -27,6 +27,7 @@ This course provides a detailed coverage of Bayesian inferential methods and the
 * [Lecture 4: Classical Simulation](/assets/e6930/E6930Slides4.pdf){:target="\_blank"}
 * [Lecture 5: Basics of Markov Chains](/assets/e6930/E6930Slides5.pdf){:target="\_blank"}
 * [Lecture 6: Simulation by MCMC Methods](/assets/e6930/E6930Slides6.pdf){:target="\_blank"}
+* [Lecture 7: Linear Regression and Extensions](/assets/e6930/E6930Slides7.pdf){:target="\_blank"}
 
 <div class="publications">
   <h2 class="topic">Mini Course: A Primer on Bayesian DSGE Models</h2>
