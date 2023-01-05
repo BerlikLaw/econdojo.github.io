@@ -29,6 +29,7 @@ This course provides a detailed coverage of Bayesian inferential methods and the
 * [Lecture 6: Simulation by MCMC Methods](/assets/e6930/E6930Slides6.pdf){:target="\_blank"}
 * [Lecture 7: Linear Regression and Extensions](/assets/e6930/E6930Slides7.pdf){:target="\_blank"}
 * [Lecture 8: Multivariate Responses](/assets/e6930/E6930Slides8.pdf){:target="\_blank"}
+* [Lecture 9: Time Series](/assets/e6930/E6930Slides9.pdf){:target="\_blank"}
 * [Lecture 10: Bayesian DSGE Models](/assets/e6930/E6930Slides10.pdf){:target="\_blank"}
 
 <div class="publications">
