@@ -33,6 +33,8 @@ This course provides a detailed coverage of Bayesian inferential methods and the
 * [Lecture 10: Bayesian DSGE Models](/assets/e6930/E6930Slides10.pdf){:target="\_blank"}
 * [Repository of Python programs](https://github.com/econdojo/py-bayes){:target="\_blank"}
 
+Acknowledgments:
+
 <div class="publications">
   <h2 class="topic">Mini Course: A Primer on Bayesian DSGE Models</h2>
 </div>
