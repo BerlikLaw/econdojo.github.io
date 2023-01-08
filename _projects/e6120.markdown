@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Applied Macroeconomics
+title: Fiscal Theory of Price Level
 description: ECON 6120 • Summer 2023 • Saint Louis University
 img: /assets/img/cybertruck.png
 importance: 2
