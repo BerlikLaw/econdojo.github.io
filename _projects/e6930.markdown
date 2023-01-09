@@ -34,14 +34,3 @@ This course provides a detailed coverage of Bayesian inferential methods and the
 * [Repository of Python programs](https://github.com/econdojo/py-bayes){:target="\_blank"}
 
 Acknowledgments: development of these lectures has been greatly benefited from discussions with Siddhartha Chib and Hailong Qian. [Zach Zhu](https://zheliangz.github.io){:target="\_blank"} provided excellent teaching assistance on Python programs.
-
-<div class="publications">
-  <h2 class="topic">Mini Course: A Primer on Bayesian DSGE Models</h2>
-</div>
-* [Summer 2018 Syllabus](/assets/e6930/BDSGEsyllabus.pdf){:target="\_blank"}
-* [Overview](/assets/e6930/BayesianDSGE.pdf){:target="\_blank"}
-* [Part I: Solving Linear Rational Expectations Models](/assets/e6930/Part1.pdf){:target="\_blank"}
-* [Part II: Likelihood Evaluation of Linear DSGE Models](/assets/e6930/Part2.pdf){:target="\_blank"}
-* [Part III: Likelihood Evaluation of Nonlinear DSGE Models](/assets/e6930/Part3.pdf){:target="\_blank"}
-* [Part IV: Bayesian Inference for DSGE Models](/assets/e6930/Part4.pdf){:target="\_blank"}
-* [Part V: Advanced Topics](/assets/e6930/Part5.pdf){:target="\_blank"}

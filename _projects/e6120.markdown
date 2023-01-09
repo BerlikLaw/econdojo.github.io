@@ -13,17 +13,16 @@ This course covers a range of Bayesian techniques for estimating dynamic stochas
   <h2 class="topic">Class Information</h2>
 </div>
 * [Summer 2023 Syllabus](/assets/e6120/E6120syllabus.pdf){:target="\_blank"}
-* **Location:** Davis-Shaughnessy Hall 273 :mask: <!-- https://emojipedia.org/ -->
-* **Time:** TR 11:00am-12:15pm
-* **Office hours:** TR 1:00pm-2:00pm & by appointment
+* <!-- **Location:** Davis-Shaughnessy Hall 273 :mask: https://emojipedia.org/ -->
+* **Time:** asynchronous online
+* **Office hours:** by appointment
 * **Econ Hub:** [discord.gg/SsrNPEeP2P](https://discord.gg/SsrNPEeP2P){:target="\_blank"}
 * **Zoom link:** [slu.zoom.us/my/econdojo](https://slu.zoom.us/my/econdojo){:target="\_blank"}
 
 <div class="publications">
   <h2 class="topic">Lecture Slides</h2>
 </div>
-* [Overview](/assets/e6930/BayesianDSGE.pdf){:target="\_blank"}
-* [Part I: Solving Linear Rational Expectations Models](/assets/e6930/Part1.pdf){:target="\_blank"}
-* [Part II: Likelihood Evaluation of Linear DSGE Models](/assets/e6930/Part2.pdf){:target="\_blank"}
-* [Part III: Bayesian Inference for DSGE Models](/assets/e6930/Part4.pdf){:target="\_blank"}
-* [Part IV: Advanced Topics](/assets/e6930/Part5.pdf){:target="\_blank"}
+* [Part I: Solving Linear Rational Expectations Models](/assets/e6120/Part1.pdf){:target="\_blank"}
+* [Part II: Likelihood Evaluation of Linear DSGE Models](/assets/e6120/Part2.pdf){:target="\_blank"}
+* [Part III: Bayesian Inference for DSGE Models](/assets/e6120/Part3.pdf){:target="\_blank"}
+* [Part IV: DSGE-SVt MATLAB Toolkit](/assets/e6120/Part4.pdf){:target="\_blank"}
