@@ -13,7 +13,7 @@ This course covers a range of Bayesian techniques for estimating dynamic stochas
   <h2 class="topic">Class Information</h2>
 </div>
 * [Summer 2023 Syllabus](/assets/e6120/E6120syllabus.pdf){:target="\_blank"}
-* <!-- **Location:** Davis-Shaughnessy Hall 273 :mask: https://emojipedia.org/ -->
+<!-- * **Location:** Davis-Shaughnessy Hall 273 :mask: https://emojipedia.org/ -->
 * **Time:** asynchronous online
 * **Office hours:** by appointment
 * **Econ Hub:** [discord.gg/SsrNPEeP2P](https://discord.gg/SsrNPEeP2P){:target="\_blank"}
@@ -25,4 +25,5 @@ This course covers a range of Bayesian techniques for estimating dynamic stochas
 * [Part I: Solving Linear Rational Expectations Models](/assets/e6120/Part1.pdf){:target="\_blank"}
 * [Part II: Likelihood Evaluation of Linear DSGE Models](/assets/e6120/Part2.pdf){:target="\_blank"}
 * [Part III: Bayesian Inference for DSGE Models](/assets/e6120/Part3.pdf){:target="\_blank"}
-* [Part IV: DSGE-SVt MATLAB Toolkit](/assets/e6120/Part4.pdf){:target="\_blank"}
+* [Part IV: DSGE-SVt Econometric Toolkit](/assets/e6120/Part4.pdf){:target="\_blank"}
+* [Repository of MATLAB programs](https://github.com/econdojo/dsge-svt){:target="\_blank"}
