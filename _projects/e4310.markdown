@@ -12,15 +12,15 @@ International economics takes both the micro and macro perspectives to study how
 <div class="publications">
   <h2 class="topic">Class Information</h2>
 </div>
-* [Spring 2022 Syllabus](/assets/e4310/E4310syllabus.pdf){:target="\_blank"}
-* **Location:** Cook Hall 330 :mask: <!-- https://emojipedia.org/ -->
-* **Time:** TR 9:30am-10:45am<!-- , 11:00am-12:15pm (Sec. 04) -->
-* **Office hours:** TR 1:00pm-2:00pm & by appointment
+* [Spring 2023 Syllabus](/assets/e4310/E4310syllabus.pdf){:target="\_blank"}
+* **Location:** Cook Hall 236 :mask: <!-- https://emojipedia.org/ -->
+* **Time:** MWF 2:10pm-3:00pm<!-- , 11:00am-12:15pm (Sec. 04) -->
+* **Office hours:** MW 1:00pm-2:00pm & by appointment
 * **Econ Hub:** [discord.gg/SsrNPEeP2P](https://discord.gg/SsrNPEeP2P){:target="\_blank"}
 * **Zoom link:** [slu.zoom.us/my/econdojo](https://slu.zoom.us/my/econdojo){:target="\_blank"}
 
 <div class="publications">
-  <h2 class="topic">Lecture Notes</h2>
+  <h2 class="topic">Lecture Slides</h2>
 </div>
 * [Lecture 1: Introduction](/assets/e4310/E4310lec1.pdf){:target="\_blank"}
 * [Lecture 2: National Income Accounting and Balance of Payments](/assets/e4310/E4310lec2.pdf){:target="\_blank"}

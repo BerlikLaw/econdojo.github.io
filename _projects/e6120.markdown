@@ -7,12 +7,12 @@ importance: 2
 category: Graduate
 ---
 
-TBA.
+This course covers a range of Bayesian techniques for estimating dynamic stochastic general equilibrium (DSGE) models. Using a prototypical new Keynesian DSGE model, we study how to solve a linear rational expectations model and compute impulse responses to structural disturbances. To link the model to data, we cast the model solution into the state space representation whose likelihood function can be evaluated with the Kalman filter. This likelihood function is then combined with a prior to construct the parameters' posterior distribution and evaluate the model's empirical performance. Finally, we survey several advanced topics on DSGE applications. The key learning objective is for students to develop *hands-on* technical and judgmental skills required to conduct macroeconometric research useful for economic and financial decision making.
 
 <div class="publications">
   <h2 class="topic">Class Information</h2>
 </div>
-* [Summer 2022 Syllabus](/assets/e6120/E6120syllabus.pdf){:target="\_blank"}
+* [Summer 2023 Syllabus](/assets/e6120/E6120syllabus.pdf){:target="\_blank"}
 * **Location:** Davis-Shaughnessy Hall 273 :mask: <!-- https://emojipedia.org/ -->
 * **Time:** TR 11:00am-12:15pm
 * **Office hours:** TR 1:00pm-2:00pm & by appointment
@@ -20,6 +20,10 @@ TBA.
 * **Zoom link:** [slu.zoom.us/my/econdojo](https://slu.zoom.us/my/econdojo){:target="\_blank"}
 
 <div class="publications">
-  <h2 class="topic">Lecture Notes</h2>
+  <h2 class="topic">Lecture Slides</h2>
 </div>
-* [Principles for Navigating Big Debt Crises](/assets/e3120/principles-for-navigating-big-debt-crises-by-ray-dalio.pdf){:target="\_blank"}
+* [Overview](/assets/e6930/BayesianDSGE.pdf){:target="\_blank"}
+* [Part I: Solving Linear Rational Expectations Models](/assets/e6930/Part1.pdf){:target="\_blank"}
+* [Part II: Likelihood Evaluation of Linear DSGE Models](/assets/e6930/Part2.pdf){:target="\_blank"}
+* [Part III: Bayesian Inference for DSGE Models](/assets/e6930/Part4.pdf){:target="\_blank"}
+* [Part IV: Advanced Topics](/assets/e6930/Part5.pdf){:target="\_blank"}
