@@ -1,6 +1,6 @@
 ---
 layout: page
-title: A Primer on Bayesian DSGE Models
+title: Bayesian DSGE Models
 description: ECON 6120 • Summer 2023 • Saint Louis University
 img: /assets/img/cybertruck.png
 importance: 2
