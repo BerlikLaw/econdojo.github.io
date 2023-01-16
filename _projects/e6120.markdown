@@ -17,6 +17,7 @@ This course covers a range of Bayesian techniques for estimating dynamic stochas
 * **Time:** asynchronous online
 * **Office hours:** by appointment
 * **Econ Hub:** [discord.gg/SsrNPEeP2P](https://discord.gg/SsrNPEeP2P){:target="\_blank"}
+* **TA:** [openai.com/blog/chatgpt](https://openai.com/blog/chatgpt){:target="\_blank"}
 * **Zoom link:** [slu.zoom.us/my/econdojo](https://slu.zoom.us/my/econdojo){:target="\_blank"}
 
 <div class="publications">

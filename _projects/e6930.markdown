@@ -16,6 +16,8 @@ This course provides a detailed coverage of Bayesian inferential methods and the
 * **Location:** Davis-Shaughnessy Hall 373 :mask:
 * **Time:** Wednesday 6:00pm-9:15pm
 * **Office hours:** MW 1:00pm-2:00pm & by appointment
+* **Econ Hub:** [discord.gg/SsrNPEeP2P](https://discord.gg/SsrNPEeP2P){:target="\_blank"}
+* **TA:** [openai.com/blog/chatgpt](https://openai.com/blog/chatgpt){:target="\_blank"}
 * **Zoom link:** [slu.zoom.us/my/econdojo](https://slu.zoom.us/my/econdojo){:target="\_blank"}
 
 <div class="publications">
@@ -33,4 +35,4 @@ This course provides a detailed coverage of Bayesian inferential methods and the
 * [Lecture 10: Bayesian DSGE Models](/assets/e6930/E6930Slides10.pdf){:target="\_blank"}
 * [Repository of Python programs](https://github.com/econdojo/py-bayes){:target="\_blank"}
 
-Acknowledgments: development of these lectures has been greatly benefited from discussions with Siddhartha Chib and Hailong Qian. [Zach Zhu](https://zheliangz.github.io){:target="\_blank"} provided excellent teaching assistance on Python programs.
+Acknowledgments: development of these lectures has been greatly benefited from discussions with Siddhartha Chib and Hailong Qian. [ChatGPT](https://openai.com/blog/chatgpt){:target="\_blank"} provides excellent teaching assistance on Python programs.
