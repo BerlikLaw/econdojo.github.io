@@ -14,8 +14,8 @@ profile:
     <br>3674 Lindell Boulevard
     <br>St. Louis, MO 63108-3397
     <br>Phone: +1(314)977-2123
-    <br>Email: <a href="mailto:tanf@slu.edu" target="_blank">tanf [at] slu.edu </a></p>
-    <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/seminar/Oct1-21-1.jpg' | relative_url }}" alt="" title="example image"/>
+    <br>Email: <a href="mailto:tanf@slu.edu" target="_blank">tanf [at] slu.edu </a>
+    <br><img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/seminar/Oct1-21-1.jpg' | relative_url }}" alt="" title="example image"/></p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
