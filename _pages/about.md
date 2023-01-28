@@ -25,8 +25,6 @@ social: false  # includes social icons at the bottom of the page
 My research agenda is organized around three areas: `macroeconomics`, `Bayesian statistics`, and `evolutionary dynamics`. One line of my recent research develops frequency-domain approaches to solving dynamic incomplete information models with applications to monetary and fiscal policy. Another line develops Markov chain Monte Carlo methods for estimating high-dimensional dynamic stochastic general equilibrium models. I also conduct research on the evolution of cooperative and altruistic human behavior.
 
 Currently, I teach macroeconomics and econometrics at Saint Louis University.
-<div class="col-sm-2 abbr">
-  <abbr class="badge"><a href="{{ '/assets/img/seminar/Oct1-21-1.jpg' | relative_url }}" target="_blank">sponsor</a></abbr>
-</div>
+  <abbr class="badge"><a href="{{ '/assets/img/paypal.jpg' | relative_url }}" target="_blank">sponsor</a></abbr>
 
 Please send an email to me if you have any difficulty with links or downloads from this homepage.
