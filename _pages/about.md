@@ -27,5 +27,4 @@ My research agenda is organized around three areas: `macroeconomics`, `Bayesian 
 Currently, I teach macroeconomics and econometrics at Saint Louis University.
 
 Please send an email to me if you have any difficulty with links or downloads. Feel free to [`💚sponsor💚`](/assets/img/paypal.jpg){:target="\_blank"} the open-source content of this homepage.
-
-<input type=button onClick=window.open("https://econdojo.github.io/assets/img/paypal.jpg","demo","width=500,height=500,left=150,top=200,toolbar=0,status=0,"); value="Open child Window">
+<button onclick=window.open("https://econdojo.github.io/assets/img/paypal.jpg","demo","width=500,height=500,left=150,top=200,toolbar=0,status=0,")>Click me</button>
