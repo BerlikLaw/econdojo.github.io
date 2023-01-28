@@ -74,12 +74,13 @@ Therefore, the cardinality of $$\mathcal{P}_I$$, which is the set of all transfo
 -----------------------------------
 
 As we shall see, the price of identification really depends on the specific purposes our behavioral patter is intended for. Here we closely follow Hurwicz and interpret the "need" for identification as the "need for purposes of prediction". This requires a clear distinction between the true old behavioral pattern and all the possible modified behavioral patterns that we are intended to predict. For notational ease, let $$w$$ be a modifying variable that takes values in its domain $$\mathcal{W}$$. (Imagine that $$w$$ represents a particular outcome in our underlying "probability space" $$\mathcal{W}$$.) Let $$w^*$$ be the realized historical value of $$w$$. Then the true old behavioral pattern that generated $$\mathcal{H}$$ can be written as the combination of $$A^*=A(w^*)$$ and $$b^*=b(w^*)$$. Moreover, all the possible modified behavioral patterns, indexed by elements of $$W$$, can be written as
+\begin{equation}
+  A_0(w)=\phi(A^*,b^*,w),\ \ \ b_0(w)=\psi(A^*,b^*,w)\label{modified}
+\end{equation}
 
 $$X_0(\mathcal{\mathcal{W}})=\{x:A_0(w)x-b_0(w)=0,\ \ \ \forall\ w\in\mathcal{W}\}$$
 
-\begin{gather}
-  A_0(w)=\phi(A^*,b^*,w),\ \ \ b_0(w)=\psi(A^*,b^*,w)\label{modified}
-\end{gather}
+
 
 where both $$\phi$$ and $$\psi$$ are known functions to us. \eqref{modified} simply says that knowledge of the true old behavioral pattern is sufficient to determine the predicted behavioral pattern indexed by $$w$$, although the true old one itself remains undetermined. Now our need for identification of the true old behavioral pattern is for the purpose of finding the set of all predicted states of the configuration over the entire possibilities of our anticipated modifications
 \begin{gather}
