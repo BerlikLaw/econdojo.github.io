@@ -29,19 +29,12 @@ As an example, consider the following linear regression model
 \begin{gather}
   Y=X'\beta+\epsilon\label{regression}
 \end{gather}
-where $$X$$ is a $$k\times 1$$ vector and $$\theta=(P_X,\beta,P_{\epsilon|X})$$. Then under the following restrictions, $$\theta$$ can be identified:
+where $$X$$ is a $$k\times 1$$ vector and $$\theta=(P_X,\beta,P_{\epsilon|X})$$. A standard set of restrictions on $$\Theta_0(P)$$ under which $$\theta$$ can be identified are the following:
 
-A1. $$\mathbb{E}_{P_{\theta}}[\epsilon | X]=0$$.
+* A1. $$\mathbb{E}_{P_{\theta}}[\epsilon X]=0$$.
+* A2. $$\mathbb{E}_{P_{\theta}}[XX']$$ is nonsingular.
 
-A2. There exists no $$A\subseteq\mathbb{R}^k$$ such that $$P_X(A)=1$$ and $$A$$ is a proper linear subspace of $$\mathbb{R}^k$$.
-
-The above restrictions may look unfamiliar. A more conventional set of restrictions on $$\Theta_0(P)$$ under which $$\theta$$ can be identified are the following:
-
-B1. $$\mathbb{E}_{P_{\theta}}[\epsilon X]=0$$.
-
-B2. $$\mathbb{E}_{P_{\theta}}[XX']$$ is nonsingular.
-
-Note that restriction (B1) is usually referred to as the orthogonality condition in the traditional framework of classical regression models. [Park (2010)](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=4c5678380faf48f4df3155548fda54a0d5dcbccc){:target="\_blank"} proposes a more general class of regression models, called the *martingale regression* since it is identified by the condition that the error process is a martingale. It allows for the presence of arbitrary time-varying and stochastic volatilities that are often quite persistent and strongly endogenous.
+Note that restriction (A1) is usually referred to as the orthogonality condition in the traditional framework of classical regression models. [Park (2010)](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=4c5678380faf48f4df3155548fda54a0d5dcbccc){:target="\_blank"} proposes a more general class of regression models, called the *martingale regression* since it is identified by the condition that the error process is a martingale. It allows for the presence of arbitrary time-varying and stochastic volatilities that are often quite persistent and strongly endogenous.
 
 <div class="publications">
   <h2 class="topic">A Priori Information and Prediction</h2>
