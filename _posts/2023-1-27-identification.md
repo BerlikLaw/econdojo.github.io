@@ -91,13 +91,13 @@ where
 \end{gather*}
 for some transformation matrix $$P$$. Clearly, \eqref{pred} plays a similar role as the *a priori* information $$I$$ in ruling out all those transformation matrices $$P$$ in \eqref{transform} that are incompatible with the restrictions provided by \eqref{pred}, i.e. all $$P$$'s such that $$X_P(\mathcal{W})\neq X_0(\mathcal{W})$$. In much of the structural vector autoregression (SVAR) literature, for example, \eqref{pred} corresponds to the restrictions imposed on the contemporaneous matrix with the interpretation that there are delays in agents' reactions to the disturbances originating outside of their own sector. To see this more clearly, consider again the following two extreme cases:
 
-    - If $$\mathcal{W}$$ is sufficiently restrictive about \eqref{transform}, then the class of all transformation matrices compatible with \eqref{pred} boils down to one containing only diagonal matrices.
-    - If $$\mathcal{W}=\{w^*\}$$ so that the future configuration remains the same as the old one, then all invertible $$m\times m$$ transformation matrices are compatible with \eqref{pred}.
+- If $$\mathcal{W}$$ is sufficiently restrictive about \eqref{transform}, then the class of all transformation matrices compatible with \eqref{pred} boils down to one containing only diagonal matrices.
+- If $$\mathcal{W}=\{w^*\}$$ so that the future configuration remains the same as the old one, then all invertible $$m\times m$$ transformation matrices are compatible with \eqref{pred}.
 
-  Therefore, the elements of $$\mathcal{P}_{\mathcal{W}}$$, which is the set of all transformation matrices that are compatible with \eqref{pred}, prescribe exactly those behavioral patterns that yield the same prediction. Now it becomes clear that, at least for the purpose of prediction, it suffices to impose *a priori* information enough to eliminate all those transformation matrices outside of $$\mathcal{P}_{\mathcal{W}}$$ so that
-  \begin{gather}
-    \mathcal{P}_{\mathcal{I}}\subseteq\mathcal{P}_{\mathcal{W}}\label{identification}
-  \end{gather}
-  This is the main result of Hurwicz: **the need for knowledge of the true old behavioral pattern is not absolute, but relative to the modification domain.** Therefore, we will always get a price discount for buying identification if our anticipated modifications are not rich enough.
+Therefore, the elements of $$\mathcal{P}_{\mathcal{W}}$$, which is the set of all transformation matrices that are compatible with \eqref{pred}, prescribe exactly those behavioral patterns that yield the same prediction. Now it becomes clear that, at least for the purpose of prediction, it suffices to impose *a priori* information enough to eliminate all those transformation matrices outside of $$\mathcal{P}_{\mathcal{W}}$$ so that
+\begin{gather}
+  \mathcal{P}_{\mathcal{I}}\subseteq\mathcal{P}_{\mathcal{W}}\label{identification}
+\end{gather}
+This is the main result of Hurwicz: **the need for knowledge of the true old behavioral pattern is not absolute, but relative to the modification domain.** Therefore, we will always get a price discount for buying identification if our anticipated modifications are not rich enough.
 
 As a final remark of this notes, if $$\mathcal{P}_{\mathcal{W}}$$ contains only diagonal matrices, then we call $$(A^*,b^*)$$ the *structure* of the configuration with respect to the modification domain $$W$$.
