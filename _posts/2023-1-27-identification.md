@@ -69,20 +69,20 @@ The above discussion still remains unclear about how much identification one is 
 
   Therefore, the cardinality of $$\mathcal{P}_I$$, which is the set of all transformation matrices that are compatible with a given *a priori* information $$I$$, measures exactly the degree of identification one is able to achieve *relative* to her *a priori* information $$I$$. That is, identification might be quite expensive and $$I$$ is the price that one must pay for it. But do we always need to pay a high price in order to buy identification?
 
-- **There is price discount on identification.** As we shall see, the price of identification really depends on the specific purposes our behavioral patter is intended for. Here we closely follow Hurwicz (1962) and interpret the ``need'' for identification as the ``need for purposes of prediction''. This requires a clear distinction between the true old behavioral pattern and all the possible modified behavioral patterns that we are intended to predict. For notational ease, let $w$ be a modifying variable that takes values in its domain $\mathcal{W}$. (Imagine that $w$ represents a particular outcome in our underlying ``probability space'' $\mathcal{W}$.) Let $w^*$ be the realized historical value of $w$. Then the true old behavioral pattern that generated $\mathcal{H}$ can be written as the combination of $A^*=A(w^*)$ and $b^*=b(w^*)$. Moreover, all the possible modified behavioral patterns, indexed by elements of $W$, can be written as
-      \begin{gather}
-        A_0(w)=\phi[A^*,b^*,w]\ \ \ \text{and}\ \ \ b_0(w)=\psi[A^*,b^*,w]\label{modified}
-      \end{gather}
-      where both $\phi$ and $\psi$ are known functions to us. \eqref{modified} simply says that knowledge of the true old behavioral pattern is sufficient to determine the predicted behavioral pattern indexed by $w$, although the true old one itself remains undetermined. Now our need for identification of the true old behavioral pattern is for the purpose of finding the set of all predicted states of the configuration over the entire possibilities of our anticipated modifications
-      \begin{gather}
-        X_0(\mathcal{\mathcal{W}})=\{x:A_0(w)x-b_0(w)=0,\ \ \ \forall\ w\in\mathcal{W}\}\label{pred}
-      \end{gather}
-      Similarly, the above set based on alternative old behavioral pattern (not necessarily the true one) can be written as
-      \begin{gather}
-        X_P(\mathcal{\mathcal{W}})=\{x:A_P(w)x-b_P(w)=0,\ \ \ \forall\ w\in\mathcal{W}\}\label{pred2}
-      \end{gather}
-      where
-      \begin{gather*}
-        A_P(w)=\phi[PA^*,Pb^*,w]\ \ \ \text{and}\ \ \ b_P(w)=\psi[PA^*,Pb^*,w]\label{modified2}
-      \end{gather*}
-      for some transformation matrix $P$. Clearly, \eqref{pred} plays a similar role as the \textit{a priori} information $I$ in ruling out all those transformation matrices $P$ in \eqref{transform} that are incompatible with the restrictions provided by \eqref{pred}, i.e. all $P$'s such that $X_P(\mathcal{W})\neq X_0(\mathcal{W})$. In much of the structural vector autoregression (SVAR) literature, for example, \eqref{pred} corresponds to the restrictions imposed on the contemporaneous matrix with the interpretation that there are delays in agents' reactions to the disturbances originating outside of their own sector.\footnote{See Chris Sims' series of lecture notes on time series econometrics.} To see this more clearly, consider again the following two extreme cases:
+- **There is price discount on identification.** As we shall see, the price of identification really depends on the specific purposes our behavioral patter is intended for. Here we closely follow Hurwicz and interpret the "need" for identification as the "need for purposes of prediction". This requires a clear distinction between the true old behavioral pattern and all the possible modified behavioral patterns that we are intended to predict. For notational ease, let $$w$$ be a modifying variable that takes values in its domain $$\mathcal{W}$$. (Imagine that $$w$$ represents a particular outcome in our underlying "probability space" $$\mathcal{W}$$.) Let $$w^*$$ be the realized historical value of $$w$$. Then the true old behavioral pattern that generated $$\mathcal{H}$$ can be written as the combination of $$A^*=A(w^*)$$ and $$b^*=b(w^*)$$. Moreover, all the possible modified behavioral patterns, indexed by elements of $$W$$, can be written as
+\begin{gather}
+  A_0(w)=\phi[A^*,b^*,w]\ \ \ \text{and}\ \ \ b_0(w)=\psi[A^*,b^*,w]\label{modified}
+\end{gather}
+where both $\phi$ and $\psi$ are known functions to us. \eqref{modified} simply says that knowledge of the true old behavioral pattern is sufficient to determine the predicted behavioral pattern indexed by $w$, although the true old one itself remains undetermined. Now our need for identification of the true old behavioral pattern is for the purpose of finding the set of all predicted states of the configuration over the entire possibilities of our anticipated modifications
+\begin{gather}
+  X_0(\mathcal{\mathcal{W}})=\{x:A_0(w)x-b_0(w)=0,\ \ \ \forall\ w\in\mathcal{W}\}\label{pred}
+\end{gather}
+Similarly, the above set based on alternative old behavioral pattern (not necessarily the true one) can be written as
+\begin{gather}
+  X_P(\mathcal{\mathcal{W}})=\{x:A_P(w)x-b_P(w)=0,\ \ \ \forall\ w\in\mathcal{W}\}\label{pred2}
+\end{gather}
+where
+\begin{gather*}
+  A_P(w)=\phi[PA^*,Pb^*,w]\ \ \ \text{and}\ \ \ b_P(w)=\psi[PA^*,Pb^*,w]\label{modified2}
+\end{gather*}
+for some transformation matrix $P$. Clearly, \eqref{pred} plays a similar role as the \textit{a priori} information $I$ in ruling out all those transformation matrices $P$ in \eqref{transform} that are incompatible with the restrictions provided by \eqref{pred}, i.e. all $P$'s such that $X_P(\mathcal{W})\neq X_0(\mathcal{W})$. In much of the structural vector autoregression (SVAR) literature, for example, \eqref{pred} corresponds to the restrictions imposed on the contemporaneous matrix with the interpretation that there are delays in agents' reactions to the disturbances originating outside of their own sector.\footnote{See Chris Sims' series of lecture notes on time series econometrics.} To see this more clearly, consider again the following two extreme cases:
