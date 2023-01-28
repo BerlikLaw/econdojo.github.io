@@ -7,7 +7,7 @@ description: Understanding identification
 
 I review one of the most important notions in econometrics, namely the notion of identification, following the seminal paper [Hurwicz (1962)](https://www.sciencedirect.com/science/article/abs/pii/S0049237X09705907){:target="\_blank"}. In what follows, I begin with a general definition of identification.
 
-### 1 General Definition
+#### 1 General Definition
 -----------------------------------
 
 In the context of econometrics, identifiability of the unknown quantity (e.g. parameters or functions of parameters) of our interest serves as the *necessary* condition for the existence of a consistent estimator for that quantity. The condition is only necessary because the estimator may not converge in a probabilistic sense to the true value of the quantity due, for example, to the existence of excessive dependency in the data. That is, the law of large numbers could fail even when the unknown quantity can be identified. That is, if one could not logically deduce the value of the unknown quantity from a presample analysis, then the usual argument for proving the consistency of an estimator would fail, let alone the derivation of its asymptotic distribution.
@@ -35,7 +35,7 @@ where $$X$$ is a $$k\times 1$$ vector and $$\theta=(P_X,\beta,P_{\epsilon|X})$$.
 
 Note that restriction (A1) is usually referred to as the orthogonality condition in the traditional framework of classical regression models. [Park (2010)](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=4c5678380faf48f4df3155548fda54a0d5dcbccc){:target="\_blank"} proposes a more general class of regression models, called the *martingale regression* since it is identified by the condition that the error process is a martingale. It allows for the presence of arbitrary time-varying and stochastic volatilities that are often quite persistent and strongly endogenous.
 
-### 2 A Priori Information and Prediction
+#### 2 A Priori Information and Prediction
 -----------------------------------
 
 Our general definition of identification has hid two essential points of identification: both the degree of and the need for identification are *relative* notions. First, we describe the identification issue one might encounter even in the simplest case. To fix idea, let $$x=[x_1,x_2,\ldots,x_n]'$$ denote the state of a configuration that takes the form of simultaneous equations system given by
@@ -60,7 +60,7 @@ is also contained in $$\Theta_0(\mathcal{H})$$. Since these two behavior pattern
 
 The above discussion still remains unclear about how much identification one is able to achieve and what purposes is identification intended for. Indeed, both the degree of and the need for identification are only defined as relative notions that are intimately connected.
 
-#### 2.1 Identification is no free lunch
+##### 2.1 Identification is no free lunch
 -----------------------------------
 
 Because the knowledge of $$\mathcal{H}$$ alone does not suffice here, we may look for additional restrictions that are not contained in $$\mathcal{H}$$ for the purpose of identification. These extra restrictions are usually called *a priori* information, which comes from our economic theory or empirical experience, etc., and can be conveniently formulated in the Bayesian framework by imposing appropriate prior probability measures on $$(A,b)$$. Thus, the imposition of *a priori* information helps us rule out all those transformation matrices $$P$$ in \eqref{transform} that are incompatible with the restrictions provided by the *a priori* information. To see this more clearly, consider the following two extreme cases:
@@ -70,16 +70,13 @@ Because the knowledge of $$\mathcal{H}$$ alone does not suffice here, we may loo
 
 Therefore, the cardinality of $$\mathcal{P}_I$$, which is the set of all transformation matrices that are compatible with a given *a priori* information $$I$$, measures exactly the degree of identification one is able to achieve *relative* to her *a priori* information $$I$$. That is, identification might be quite expensive and $$I$$ is the price that one must pay for it. But do we always need to pay a high price in order to buy identification?
 
-#### 2.2 There is price discount on identification
+##### 2.2 There is price discount on identification
 -----------------------------------
 
 As we shall see, the price of identification really depends on the specific purposes our behavioral patter is intended for. Here we closely follow Hurwicz and interpret the "need" for identification as the "need for purposes of prediction". This requires a clear distinction between the true old behavioral pattern and all the possible modified behavioral patterns that we are intended to predict. For notational ease, let $$w$$ be a modifying variable that takes values in its domain $$\mathcal{W}$$. (Imagine that $$w$$ represents a particular outcome in our underlying "probability space" $$\mathcal{W}$$.) Let $$w^*$$ be the realized historical value of $$w$$. Then the true old behavioral pattern that generated $$\mathcal{H}$$ can be written as the combination of $$A^*=A(w^*)$$ and $$b^*=b(w^*)$$. Moreover, all the possible modified behavioral patterns, indexed by elements of $$W$$, can be written as
 \begin{equation}
-  A_0(w)=\phi(A^{*},b^{*},w),\ \ \ b_0(w)=\psi(A^{*},b^{*},w)\label{modified}
+  A_0(w)=\phi[A^{*},b^{*},w],\ \ \ b_0(w)=\psi[A^{*},b^{*},w]\label{modified}
 \end{equation}
-
-
-
 where both $$\phi$$ and $$\psi$$ are known functions to us. \eqref{modified} simply says that knowledge of the true old behavioral pattern is sufficient to determine the predicted behavioral pattern indexed by $$w$$, although the true old one itself remains undetermined. Now our need for identification of the true old behavioral pattern is for the purpose of finding the set of all predicted states of the configuration over the entire possibilities of our anticipated modifications
 \begin{gather}
   X_0(\mathcal{\mathcal{W}})=\{x:A_0(w)x-b_0(w)=0,\ \ \ \forall\ w\in\mathcal{W}\}\label{pred}
