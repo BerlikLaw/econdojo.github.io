@@ -26,4 +26,4 @@ My research agenda is organized around three areas: `macroeconomics`, `Bayesian 
 
 Currently, I teach macroeconomics and econometrics at Saint Louis University.
 
-Please send an email to me if you have any difficulty with links or downloads. Feel free to :paypal: [`:paypal: Sponsor`](/assets/img/paypal.jpg){:target="\_blank"} the open-source content of this homepage.
+Please send an email to me if you have any difficulty with links or downloads. Feel free to [`<a href="https://emoji.gg/emoji/1716_PAYPAL"><img src="https://cdn3.emoji.gg/emojis/1716_PAYPAL.png" width="64px" height="64px" alt="PAYPAL"></a> Sponsor`](/assets/img/paypal.jpg){:target="\_blank"} the open-source content of this homepage.
