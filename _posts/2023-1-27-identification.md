@@ -32,12 +32,14 @@ As an example, consider the following linear regression model
 where $$X$$ is a $$k\times 1$$ vector and $$\theta=(P_X,\beta,P_{\epsilon|X})$$. Then under the following restrictions, $$\theta$$ can be identified:
 
 A1. $$\mathbb{E}_{P_{\theta}}[\epsilon | X]=0$$.
-* A2. There exists no $$A\subseteq\mathbb{R}^k$$ such that $$P_X(A)=1$$ and $$A$$ is a proper linear subspace of $$\mathbb{R}^k$$.
+
+A2. There exists no $$A\subseteq\mathbb{R}^k$$ such that $$P_X(A)=1$$ and $$A$$ is a proper linear subspace of $$\mathbb{R}^k$$.
 
 The above restrictions may look unfamiliar. A more conventional set of restrictions on $$\Theta_0(P)$$ under which $$\theta$$ can be identified are the following:
 
-* B1. $$\mathbb{E}_{P_{\theta}}[\epsilon X]=0$$.
-* B2. $$\mathbb{E}_{P_{\theta}}[XX']$$ is nonsingular.
+B1. $$\mathbb{E}_{P_{\theta}}[\epsilon X]=0$$.
+
+B2. $$\mathbb{E}_{P_{\theta}}[XX']$$ is nonsingular.
 
 Note that restriction (B1) is usually referred to as the orthogonality condition in the traditional framework of classical regression models. [Park (2010)](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=4c5678380faf48f4df3155548fda54a0d5dcbccc){:target="\_blank"} proposes a more general class of regression models, called the *martingale regression* since it is identified by the condition that the error process is a martingale. It allows for the presence of arbitrary time-varying and stochastic volatilities that are often quite persistent and strongly endogenous.
 
@@ -50,4 +52,18 @@ Our general definition of identification has hid two essential points of identif
   f_i(x)=0,\qquad i=1,2,\ldots,m\label{configuration}
 \end{gather}
 Hurwicz refers to $$f_i$$ as the *behavior pattern* of the $$i$$-th component in the configuration. In the context of probabilistic models, the zero's on the right hand side of \eqref{configuration} should be replaced by stochastic disturbance terms so that $$f_i$$'s take the form of, for example, first-order conditions derived from agents' optimizing behavior in a dynamic stochastic general equilibrium (DSGE) model, or the classical linear regression model given in the previous section.
+
+In what follows, we will focus only on the linear deterministic behavior pattern which, in matrix notation, can be compactly written as
+\begin{gather}
+  Ax-b=0\label{linear}
+\end{gather}
+where the behavior pattern is now completely determined by the $$m\times n$$ matrix $$A$$ and the $$m\times 1$$ vector $$b$$. Note that \eqref{linear} imposes a restriction on the possible values that $$x$$ can take under the particular configuration specified by $$(A,b)$$. Let $$\mathcal{H}$$ be the state space of $$x$$ that is spanned by the true values of $$A$$ and $$b$$. Following the language and notation established in the previous section, we can take $$P_X$$ to be $$\mathcal{H}$$ here because the knowledge of $$P_X$$ boils down to that of $$\mathcal{H}$$ in a deterministic setting. Therefore, the identified set of $$(A,b)$$ can be written as
+\begin{gather}
+  \Theta_0(\mathcal{H})=\{(A,b):Ax-b=0,\ \ \ \forall\ x\in\mathcal{H}\}\label{set}
+\end{gather}
+and the completeness assumption of our model $$\mathcal{P}$$ amounts to requiring that $$\Theta_0(\mathcal{H})$$ is a nonempty set. Cautions are needed again because it is straightforward to see that for any $$(A,b)\in\Theta_0(\mathcal{H})$$ and any $$m\times m$$ invertible matrix $$P$$, the combination
+\begin{gather}
+  C=PA\ \ \ \text{and}\ \ \ d=Pb\label{transform}
+\end{gather}
+is also contained in $$\Theta_0(\mathcal{H})$$. Since these two behavior patterns both span the state space $$\mathcal{H}$$, we say that $$(A,b)$$ and $$(C,d)$$ are *observationally equivalent* with data. Therefore, the knowledge of $$\mathcal{H}$$ alone fails to single out the true behavior pattern specified by a particular combination of $$A$$ and $$b$$.
 
