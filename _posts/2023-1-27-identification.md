@@ -7,7 +7,9 @@ description: Understanding identification
 
 I review one of the most important notions in econometrics, namely the notion of identification, following the seminal paper Hurwicz (1962). In what follows, I begin with a general definition of identification.
 
-## General Definition
+<div class="publications">
+  <h2 class="topic">General Definition</h2>
+</div>
 
 In the context of econometrics, identifiability of the unknown quantity (e.g. parameters or functions of parameters) of our interest serves as the *necessary* condition for the existence of a consistent estimator for that quantity. The condition is only necessary because the estimator may not converge in a probabilistic sense to the true value of the quantity due, for example, to the existence of excessive dependency in the data. That is, the law of large numbers could fail even when the unknown quantity can be identified. That is, if one could not logically deduce the value of the unknown quantity from a presample analysis, then the usual argument for proving the consistency of an estimator would fail, let alone the derivation of its asymptotic distribution.
 
