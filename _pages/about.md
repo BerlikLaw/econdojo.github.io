@@ -37,17 +37,16 @@ Please send an email to me if you have any difficulty with links or downloads. F
   transition-duration: 0.4s;
   border: none;
   color: white;
-  padding: 15px 32px;
+  padding: 10px 24px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 12px;
+  font-size: 15px;
   margin: 4px 2px;
   cursor: pointer;
 }
 
 .sponsor:hover {
-  background-color: #4CAF50; /* Green */
-  color: white;
+  background-color: white;
 }
 </style>
