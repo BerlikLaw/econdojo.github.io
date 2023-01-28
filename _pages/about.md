@@ -28,5 +28,4 @@ Currently, I teach macroeconomics and econometrics at Saint Louis University.
 <abbr class="badge"><a href="{{ '/assets/img/seminar/Oct1-21-1.jpg' | relative_url }}" target="_blank">sponsor</a></abbr>
 
 Please send an email to me if you have any difficulty with links or downloads from this homepage.
-
-<img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/seminar/Oct1-21-1.jpg' | relative_url }}" alt="Trulli" width="50" height="33">
+<a href="{{ '/assets/img/seminar/Oct1-21-1.jpg' | relative_url }}" class="btn btn-sm z-depth-0" role="button" target="_blank">PDF</a>
