@@ -70,11 +70,6 @@ The above discussion still remains unclear about how much identification one is 
   Therefore, the cardinality of $$\mathcal{P}_I$$, which is the set of all transformation matrices that are compatible with a given *a priori* information $$I$$, measures exactly the degree of identification one is able to achieve *relative* to her *a priori* information $$I$$. That is, identification might be quite expensive and $$I$$ is the price that one must pay for it. But do we always need to pay a high price in order to buy identification?
 
 - **There is price discount on identification.** As we shall see, the price of identification really depends on the specific purposes our behavioral patter is intended for. Here we closely follow Hurwicz and interpret the "need" for identification as the "need for purposes of prediction". This requires a clear distinction between the true old behavioral pattern and all the possible modified behavioral patterns that we are intended to predict. For notational ease, let $$w$$ be a modifying variable that takes values in its domain $$\mathcal{W}$$. (Imagine that $$w$$ represents a particular outcome in our underlying "probability space" $$\mathcal{W}$$.) Let $$w^*$$ be the realized historical value of $$w$$. Then the true old behavioral pattern that generated $$\mathcal{H}$$ can be written as the combination of $$A^*=A(w^*)$$ and $$b^*=b(w^*)$$. Moreover, all the possible modified behavioral patterns, indexed by elements of $$W$$, can be written as
-
-\begin{gather}
-  X_0(\mathcal{\mathcal{W}})=\{x:A_0(w)x-b_0(w)=0,\ \ \ \forall\ w\in\mathcal{W}\}
-\end{gather}
-
 \begin{gather}
   A_0(w)=\phi[A^*,b^*,w]\ \ \ b_0(w)=\psi[A^*,b^*,w]\label{modified}
 \end{gather}
