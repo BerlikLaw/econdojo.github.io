@@ -73,7 +73,7 @@ The above discussion still remains unclear about how much identification one is 
 \begin{gather}
   A_0(w)=\phi[A^*,b^*,w]\ \ \ \text{and}\ \ \ b_0(w)=\psi[A^*,b^*,w]\label{modified}
 \end{gather}
-where both $\phi$ and $\psi$ are known functions to us. \eqref{modified} simply says that knowledge of the true old behavioral pattern is sufficient to determine the predicted behavioral pattern indexed by $w$, although the true old one itself remains undetermined. Now our need for identification of the true old behavioral pattern is for the purpose of finding the set of all predicted states of the configuration over the entire possibilities of our anticipated modifications
+where both $$\phi$$ and $$\psi$$ are known functions to us. \eqref{modified} simply says that knowledge of the true old behavioral pattern is sufficient to determine the predicted behavioral pattern indexed by $$w$$, although the true old one itself remains undetermined. Now our need for identification of the true old behavioral pattern is for the purpose of finding the set of all predicted states of the configuration over the entire possibilities of our anticipated modifications
 \begin{gather}
   X_0(\mathcal{\mathcal{W}})=\{x:A_0(w)x-b_0(w)=0,\ \ \ \forall\ w\in\mathcal{W}\}\label{pred}
 \end{gather}
@@ -85,4 +85,13 @@ where
 \begin{gather*}
   A_P(w)=\phi[PA^*,Pb^*,w]\ \ \ \text{and}\ \ \ b_P(w)=\psi[PA^*,Pb^*,w]\label{modified2}
 \end{gather*}
-for some transformation matrix $P$. Clearly, \eqref{pred} plays a similar role as the \textit{a priori} information $I$ in ruling out all those transformation matrices $P$ in \eqref{transform} that are incompatible with the restrictions provided by \eqref{pred}, i.e. all $P$'s such that $X_P(\mathcal{W})\neq X_0(\mathcal{W})$. In much of the structural vector autoregression (SVAR) literature, for example, \eqref{pred} corresponds to the restrictions imposed on the contemporaneous matrix with the interpretation that there are delays in agents' reactions to the disturbances originating outside of their own sector.\footnote{See Chris Sims' series of lecture notes on time series econometrics.} To see this more clearly, consider again the following two extreme cases:
+for some transformation matrix $$P$$. Clearly, \eqref{pred} plays a similar role as the *a priori* information $$I$$ in ruling out all those transformation matrices $$P$$ in \eqref{transform} that are incompatible with the restrictions provided by \eqref{pred}, i.e. all $$P$$'s such that $$X_P(\mathcal{W})\neq X_0(\mathcal{W})$$. In much of the structural vector autoregression (SVAR) literature, for example, \eqref{pred} corresponds to the restrictions imposed on the contemporaneous matrix with the interpretation that there are delays in agents' reactions to the disturbances originating outside of their own sector. To see this more clearly, consider again the following two extreme cases:
+
+    - If $\mathcal{W}$ is sufficiently restrictive about \eqref{transform}, then the class of all transformation matrices compatible with \eqref{pred} boils down to one containing only diagonal matrices.
+    - If $\mathcal{W}=\{w^*\}$ so that the future configuration remains the same as the old one, then all invertible $m\times m$ transformation matrices are compatible with \eqref{pred}.
+
+  Therefore, the elements of $\mathcal{P}_{\mathcal{W}}$, which is the set of all transformation matrices that are compatible with \eqref{pred}, prescribe exactly those behavioral patterns that yield the same prediction. Now it becomes clear that, at least for the purpose of prediction, it suffices to impose \textit{a priori} information enough to eliminate all those transformation matrices outside of $\mathcal{P}_{\mathcal{W}}$ so that
+  \begin{gather}
+    \mathcal{P}_{\mathcal{I}}\subseteq\mathcal{P}_{\mathcal{W}}\label{identification}
+  \end{gather}
+  This is the main result of Hurwicz: \textit{the need for knowledge of the true old behavioral pattern is not absolute, but relative to the modification domain.} Therefore, we will always get a price discount for buying identification if our anticipated modifications are not rich enough.
