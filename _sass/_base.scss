@@ -76,7 +76,7 @@ blockquote {
 
 .post-description {
   margin-bottom: 2rem;
-  font-size: 0.875rem;
+  font-size: 0.9rem;
   a {
     color: inherit;
     &:hover {
@@ -253,8 +253,8 @@ footer.sticky-bottom {
 .header-bar {
   border-bottom: 1px solid $grey-color-light;
   text-align: left;
-  padding-top: 1rem;
-  padding-bottom: 3rem;
+  padding-top: 0.5rem;
+  padding-bottom: 2rem;
   h1 {
     color: var(--global-theme-color);
     font-size: 5rem;
