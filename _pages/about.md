@@ -15,7 +15,7 @@ profile:
     <br>St. Louis, MO 63108-3397
     <br>Phone: +1(314)977-2123
     <br>Email: <a href="mailto:tanf@slu.edu" target="_blank">tanf [at] slu.edu </a></p>
-    <img src="{{ '/assets/img/seminar/Oct1-21-1.jpg' | relative_url }}" alt="Trulli" width="10" height="8">
+    <p style="text-align:center;"><img src="{{ '/assets/img/seminar/Oct1-21-1.jpg' | relative_url }}" alt="Logo"></p>
     
 
 news: true  # includes a list of news items
