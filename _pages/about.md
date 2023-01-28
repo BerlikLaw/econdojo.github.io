@@ -14,8 +14,8 @@ profile:
     <br>3674 Lindell Boulevard
     <br>St. Louis, MO 63108-3397
     <br>Phone: +1(314)977-2123
-    <br>Email: <a href="mailto:tanf@slu.edu" target="_blank">tanf [at] slu.edu </a></p>
-    <p><button onclick=window.open("https://econdojo.github.io/assets/img/paypal.jpg","demo","width=500,height=500,left=150,top=200,toolbar=0,status=0,")>💚sponsor💚</button></p>
+    <br>Email: <a href="mailto:tanf@slu.edu" target="_blank">tanf [at] slu.edu </a>
+    <br><button onclick=window.open("https://econdojo.github.io/assets/img/paypal.jpg","demo","width=500,height=500,left=150,top=200,toolbar=0,status=0,")>💚 Sponsor</button></p>
     
 
 news: true  # includes a list of news items
@@ -27,4 +27,4 @@ My research agenda is organized around three areas: `macroeconomics`, `Bayesian 
 
 Currently, I teach macroeconomics and econometrics at Saint Louis University.
 
-Please send an email to me if you have any difficulty with links or downloads. Feel free to sponsor the open-source content of this homepage. 👉
+Please send an email to me if you have any difficulty with links or downloads. Feel free to sponsor the open-source content of this homepage.
