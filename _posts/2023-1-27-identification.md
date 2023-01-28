@@ -30,10 +30,8 @@ As an example, consider the following linear regression model
   Y=X'\beta+\epsilon\label{regression}
 \end{gather}
 where $$X$$ is a $$k\times 1$$ vector and $$\theta=(P_X,\beta,P_{\epsilon|X})$$. Then under the following restrictions, $$\theta$$ can be identified:
-* B1. $$\mathbb{E}_{P_{\theta}}[\epsilon X]=0$$.
-* B2. $$\mathbb{E}_{P_{\theta}}[XX']$$ is nonsingular.
 
-* A1. $$\mathbb{E}_{P_{\theta}}[\epsilon|X]=0$$.
+* A1. $$\mathbb{E}_{P_{\theta}}[\epsilon | X]=0$$.
 * A2. There exists no $$A\subseteq\mathbb{R}^k$$ such that $$P_X(A)=1$$ and $$A$$ is a proper linear subspace of $$\mathbb{R}^k$$.
 
 The above restrictions may look unfamiliar. A more conventional set of restrictions on $$\Theta_0(P)$$ under which $$\theta$$ can be identified are the following:
