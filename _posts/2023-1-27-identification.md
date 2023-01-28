@@ -31,7 +31,7 @@ As an example, consider the following linear regression model
 \end{gather}
 where $$X$$ is a $$k\times 1$$ vector and $$\theta=(P_X,\beta,P_{\epsilon|X})$$. Then under the following restrictions, $$\theta$$ can be identified:
 
-* A1. $$\mathbb{E}_{P_{\theta}}[\epsilon | X]=0$$.
+A1. $$\mathbb{E}_{P_{\theta}}[\epsilon | X]=0$$.
 * A2. There exists no $$A\subseteq\mathbb{R}^k$$ such that $$P_X(A)=1$$ and $$A$$ is a proper linear subspace of $$\mathbb{R}^k$$.
 
 The above restrictions may look unfamiliar. A more conventional set of restrictions on $$\Theta_0(P)$$ under which $$\theta$$ can be identified are the following:
@@ -40,3 +40,14 @@ The above restrictions may look unfamiliar. A more conventional set of restricti
 * B2. $$\mathbb{E}_{P_{\theta}}[XX']$$ is nonsingular.
 
 Note that restriction (B1) is usually referred to as the orthogonality condition in the traditional framework of classical regression models. [Park (2010)](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=4c5678380faf48f4df3155548fda54a0d5dcbccc){:target="\_blank"} proposes a more general class of regression models, called the *martingale regression* since it is identified by the condition that the error process is a martingale. It allows for the presence of arbitrary time-varying and stochastic volatilities that are often quite persistent and strongly endogenous.
+
+<div class="publications">
+  <h2 class="topic">A Priori Information and Prediction</h2>
+</div>
+
+Our general definition of identification has hid two essential points of identification: both the degree of and the need for identification are *relative* notions. First, we describe the identification issue one might encounter even in the simplest case. To fix idea, let $$x=[x_1,x_2,\ldots,x_n]'$$ denote the state of a configuration that takes the form of simultaneous equations system given by
+\begin{gather}
+  f_i(x)=0,\qquad i=1,2,\ldots,m\label{configuration}
+\end{gather}
+Hurwicz refers to $$f_i$$ as the *behavior pattern* of the $$i$$-th component in the configuration. In the context of probabilistic models, the zero's on the right hand side of \eqref{configuration} should be replaced by stochastic disturbance terms so that $$f_i$$'s take the form of, for example, first-order conditions derived from agents' optimizing behavior in a dynamic stochastic general equilibrium (DSGE) model, or the classical linear regression model given in the previous section.
+
