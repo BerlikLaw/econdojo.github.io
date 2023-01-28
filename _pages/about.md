@@ -16,7 +16,7 @@ profile:
     <br>Phone: +1(314)977-2123
     <br>Email: <a href="mailto:tanf@slu.edu" target="_blank">tanf [at] slu.edu </a>
     <br>
-    <br><button class="button sponsor" onclick=window.open("https://econdojo.github.io/assets/img/paypal.jpg","demo","width=500,height=500,left=500,top=200,toolbar=0,status=0,")>💚 Sponsor</button></p>
+    <br><button class="sponsor" onclick=window.open("https://econdojo.github.io/assets/img/paypal.jpg","demo","width=500,height=500,left=500,top=200,toolbar=0,status=0,")>💚 Sponsor</button></p>
     
 
 news: true  # includes a list of news items
@@ -31,17 +31,23 @@ Currently, I teach macroeconomics and econometrics at Saint Louis University.
 Please send an email to me if you have any difficulty with links or downloads. Feel free to sponsor the open-source content of this homepage.
 
 <style>
-.button {
+.sponsor {
+  background-color: #008CBA;
+  border-radius: 12px;
+  transition-duration: 0.4s;
   border: none;
   color: white;
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 16px;
+  font-size: 12px;
   margin: 4px 2px;
   cursor: pointer;
 }
 
-.sponsor {background-color: #008CBA;} /* Blue */
+.sponsor:hover {
+  background-color: #4CAF50; /* Green */
+  color: white;
+}
 </style>
