@@ -25,9 +25,9 @@ $$\theta\in\Theta_0(P_X):=\{\theta\in\Theta:P_{\theta}=P_X\}$$
 where $$\Theta_0(P_X)$$ is referred to as the identified set. We say that $$\theta$$ is *identified* if $$\Theta_0(P_X)$$ is a singleton. Identification in our general discussion so far is really a global concept. [Rothenberg (1971)](https://www.jstor.org/stable/1913267){:target="\_blank"} showed that the necessary and sufficient condition for *local* identification is the nonsingularity of the Fisher information matrix. [Iskrev (2008)](https://www.sciencedirect.com/science/article/abs/pii/S0165176507003898){:target="\_blank"} shows how the information matrix of linearized DSGE models can be evaluated analytically, which can be used to check the local identifiability in DSGE models. Thus, the natural question is that under what restrictions on $$\Theta_0(P_X)$$ can the identification of $$\theta$$ be achieved. We will explore these restrictions in the next section.
 
 As an example, consider the following linear regression model
-\begin{equation}
+\begin{equation*}
   Y=X'\beta+\epsilon
-\end{equation}
+\end{equation*}
 where $$X$$ is a $$k\times 1$$ vector and $$\theta=(P_X,\beta,P_{\epsilon|X})$$. A standard set of restrictions on $$\Theta_0(P)$$ under which $$\theta$$ can be identified are the following:
 
 * A1. $$\mathbb{E}_{P_{\theta}}[\epsilon X]=0$$.
@@ -63,12 +63,12 @@ The above discussion still remains unclear about how much identification one is 
 ##### 2.1 Identification is no free lunch
 -----------------------------------
 
-Because the knowledge of $$\mathcal{H}$$ alone does not suffice here, we may look for additional restrictions that are not contained in $$\mathcal{H}$$ for the purpose of identification. These extra restrictions are usually called *a priori* information, which comes from our economic theory or empirical experience, etc., and can be conveniently formulated in the Bayesian framework by imposing appropriate prior probability measures on $$(A,b)$$. Thus, the imposition of *a priori* information helps us rule out all those transformation matrices $$P$$ in \eqref{transform} that are incompatible with the restrictions provided by the *a priori* information. To see this more clearly, consider the following two extreme cases:
+Because the knowledge of $$\mathcal{H}$$ alone does not suffice here, we may look for additional restrictions that are not contained in $$\mathcal{H}$$ for the purpose of identification. These extra restrictions are usually called a priori information, which comes from our economic theory or empirical experience, etc., and can be conveniently formulated in the Bayesian framework by imposing appropriate prior probability measures on $$(A,b)$$. Thus, the imposition of a priori information helps us rule out all those transformation matrices $$P$$ in \eqref{transform} that are incompatible with the restrictions provided by the a priori information. To see this more clearly, consider the following two extreme cases:
 
-- If the *a priori* information is sufficiently restrictive about \eqref{transform} so that the class of all transformation matrices boils down to one containing only diagonal matrices, then we say that the behavioral pattern $$(A,b)$$ can be identified (up to normalization).
-- If our economic theory or empirical experience remains silent, that is, there is no readily available *a priori* information, then all invertible transformation matrices are allowed and we say that the behavioral pattern $$(A,b)$$ cannot be identified.
+- If the a priori information is sufficiently restrictive about \eqref{transform} so that the class of all transformation matrices boils down to one containing only diagonal matrices, then we say that the behavioral pattern $$(A,b)$$ can be identified (up to normalization).
+- If our economic theory or empirical experience remains silent, that is, there is no readily available a priori information, then all invertible transformation matrices are allowed and we say that the behavioral pattern $$(A,b)$$ cannot be identified.
 
-Therefore, the cardinality of $$\mathcal{P}_I$$, which is the set of all transformation matrices that are compatible with a given *a priori* information $$I$$, measures exactly the degree of identification one is able to achieve *relative* to her *a priori* information $$I$$. That is, identification might be quite expensive and $$I$$ is the price that one must pay for it. But do we always need to pay a high price in order to buy identification?
+Therefore, the cardinality of $$\mathcal{P}_I$$, which is the set of all transformation matrices that are compatible with a given a priori information $$I$$, measures exactly the degree of identification one is able to achieve *relative* to her a priori information $$I$$. That is, identification might be quite expensive and $$I$$ is the price that one must pay for it. But do we always need to pay a high price in order to buy identification?
 
 ##### 2.2 There is price discount on identification
 -----------------------------------
@@ -89,12 +89,12 @@ where
 
 $$A_P(w)=\phi[PA^*,Pb^*,w]\ \ \ b_P(w)=\psi[PA^*,Pb^*,w]$$
 
-for some transformation matrix $$P$$. Clearly, $$X_0(\mathcal{\mathcal{W}})$$ plays a similar role as the *a priori* information $$I$$ in ruling out all those transformation matrices $$P$$ in \eqref{transform} that are incompatible with the restrictions provided by $$X_0(\mathcal{\mathcal{W}})$$, i.e. all $$P$$'s such that $$X_P(\mathcal{W})\neq X_0(\mathcal{W})$$. In much of the structural vector autoregression (SVAR) literature, for example, $$X_0(\mathcal{\mathcal{W}})$$ corresponds to the restrictions imposed on the contemporaneous matrix with the interpretation that there are delays in agents' reactions to the disturbances originating outside of their own sector. To see this more clearly, consider again the following two extreme cases:
+for some transformation matrix $$P$$. Clearly, $$X_0(\mathcal{\mathcal{W}})$$ plays a similar role as the a priori information $$I$$ in ruling out all those transformation matrices $$P$$ in \eqref{transform} that are incompatible with the restrictions provided by $$X_0(\mathcal{\mathcal{W}})$$, i.e. all $$P$$'s such that $$X_P(\mathcal{W})\neq X_0(\mathcal{W})$$. In much of the structural vector autoregression (SVAR) literature, for example, $$X_0(\mathcal{\mathcal{W}})$$ corresponds to the restrictions imposed on the contemporaneous matrix with the interpretation that there are delays in agents' reactions to the disturbances originating outside of their own sector. To see this more clearly, consider again the following two extreme cases:
 
 - If $$\mathcal{W}$$ is sufficiently restrictive about \eqref{transform}, then the class of all transformation matrices compatible with $$X_0(\mathcal{\mathcal{W}})$$ boils down to one containing only diagonal matrices.
 - If $$\mathcal{W}=\{w^*\}$$ so that the future configuration remains the same as the old one, then all invertible $$m\times m$$ transformation matrices are compatible with $$X_0(\mathcal{\mathcal{W}})$$.
 
-Therefore, the elements of $$\mathcal{P}_{\mathcal{W}}$$, which is the set of all transformation matrices that are compatible with $$X_0(\mathcal{\mathcal{W}})$$, prescribe exactly those behavioral patterns that yield the same prediction. Now it becomes clear that, at least for the purpose of prediction, it suffices to impose *a priori* information enough to eliminate all those transformation matrices outside of $$\mathcal{P}_{\mathcal{W}}$$ so that
+Therefore, the elements of $$\mathcal{P}_{\mathcal{W}}$$, which is the set of all transformation matrices that are compatible with $$X_0(\mathcal{\mathcal{W}})$$, prescribe exactly those behavioral patterns that yield the same prediction. Now it becomes clear that, at least for the purpose of prediction, it suffices to impose a priori information enough to eliminate all those transformation matrices outside of $$\mathcal{P}_{\mathcal{W}}$$ so that
 
 $$\mathcal{P}_{\mathcal{I}}\subseteq\mathcal{P}_{\mathcal{W}}$$
 
