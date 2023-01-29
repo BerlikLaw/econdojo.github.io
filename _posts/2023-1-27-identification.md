@@ -24,11 +24,7 @@ $$\theta\in\Theta_0(P_X):=\{\theta\in\Theta:P_{\theta}=P_X\}$$
 
 where $$\Theta_0(P_X)$$ is referred to as the identified set. We say that $$\theta$$ is *identified* if $$\Theta_0(P_X)$$ is a singleton. Identification in our general discussion so far is really a global concept. [Rothenberg (1971)](https://www.jstor.org/stable/1913267){:target="\_blank"} showed that the necessary and sufficient condition for *local* identification is the nonsingularity of the Fisher information matrix. [Iskrev (2008)](https://www.sciencedirect.com/science/article/abs/pii/S0165176507003898){:target="\_blank"} shows how the information matrix of linearized DSGE models can be evaluated analytically, which can be used to check the local identifiability in DSGE models. Thus, the natural question is that under what restrictions on $$\Theta_0(P_X)$$ can the identification of $$\theta$$ be achieved. We will explore these restrictions in the next section.
 
-As an example, consider the following linear regression model
-\begin{equation*}
-  Y=X'\beta+\epsilon
-\end{equation*}
-where $$X$$ is a $$k\times 1$$ vector and $$\theta=(P_X,\beta,P_{\epsilon|X})$$. A standard set of restrictions on $$\Theta_0(P)$$ under which $$\theta$$ can be identified are the following:
+As an example, consider the following linear regression model $$Y=X'\beta+\epsilon$$, where $$X$$ is a $$k\times 1$$ vector and $$\theta=(P_X,\beta,P_{\epsilon|X})$$. A standard set of restrictions on $$\Theta_0(P)$$ under which $$\theta$$ can be identified are the following:
 
 * A1. $$\mathbb{E}_{P_{\theta}}[\epsilon X]=0$$.
 * A2. $$\mathbb{E}_{P_{\theta}}[XX']$$ is nonsingular.
