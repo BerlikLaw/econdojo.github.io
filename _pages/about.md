@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Economist @ SLU, avid programmer, day trader.
+description: Economist [@SLU](https://twitter.com/SLU_Official){:target="\_blank"}, avid programmer & trader.
 
 profile:
   align: right
@@ -26,7 +26,7 @@ social: false  # includes social icons at the bottom of the page
 
 My research agenda is organized around three areas: `macroeconomics`, `Bayesian statistics`, and `evolutionary dynamics`. One line of my recent research develops frequency-domain approaches to solving and analyzing dynamic incomplete information models with applications to monetary economics and finance. Another line develops Markov chain Monte Carlo methods for estimating high-dimensional models adopted by central banks. I also conduct research on the evolution of cooperative and altruistic human behavior.
 
-Currently, I teach macroeconomics and econometrics at Saint Louis University. Meanwhile, I am keenly interested in industry positions in data science.
+Currently, I teach macroeconomics and econometrics at Saint Louis University. Meanwhile, I am available on the industry job market for data scientist positions. I am also a thematic investor for space economy and have rich experience in derivative trading.
 
 Please send an email to me if you have any difficulty with links or downloads. Feel free to sponsor the open-source content of this homepage.
 
