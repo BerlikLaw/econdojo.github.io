@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Economist [@SLU](https://twitter.com/SLU_Official){:target="\_blank"}, avid programmer & trader.
+description: Economist <a href="https://twitter.com/SLU_Official">@SLU</a>, avid programmer & trader.
 
 profile:
   align: right
