@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Economist @ SLU, space investor, day trader, Tesla fanatic.
+description: Economist @ SLU, avid programmer, space investor, day trader, Tesla fanatic.
 
 profile:
   align: right
