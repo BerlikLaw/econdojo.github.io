@@ -16,7 +16,7 @@ profile:
     <br>Phone: +1(314)977-2123
     <br>Email: <a href="mailto:tanf@slu.edu" target="_blank">tanf [at] slu.edu </a>
     <br>
-    <br><button class="sponsor" onclick=window.open("https://econdojo.github.io/assets/img/paypal.jpg","demo","width=500,height=500,left=500,top=200,toolbar=0,status=0,")>💚 Sponsor</button></p>
+    <br><button class="sponsor" onclick=window.open("https://econdojo.github.io/assets/img/paypal.jpg","demo","width=500,height=500,left=500,top=200,toolbar=0,status=0,")>💚 Sponsor</button><button class="sponsor" onclick=window.open("https://econdojo.github.io/assets/img/paypal.jpg","demo","width=500,height=500,left=500,top=200,toolbar=0,status=0,")>💚 Sponsor</button></p>
     
 
 news: true  # includes a list of news items
@@ -37,11 +37,11 @@ Please send an email to me if you have any difficulty with links or downloads. F
   transition-duration: 0.4s;
   border: none;
   color: white;
-  padding: 10px 24px;
+  padding: 5px 12px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 15px;
+  font-size: 12px;
   margin: 4px 2px;
   cursor: pointer;
 }
