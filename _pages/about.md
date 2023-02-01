@@ -16,7 +16,7 @@ profile:
     <br>Phone: +1(314)977-2123
     <br>Email: <a href="mailto:tanf@slu.edu" target="_blank">tanf [at] slu.edu </a>
     <br>
-    <br><button class="sponsor" onclick=window.open("https://econdojo.github.io/assets/img/sponsor.jpg","demo","width=500,height=500,left=500,top=200,toolbar=0,status=0,")>💚 Sponsor</button></p>
+    <br><button class="sponsor" onclick=window.open("https://econdojo.github.io/assets/img/sponsor.jpg","demo","width=800,height=800,left=500,top=200,toolbar=0,status=0,")>💚 Sponsor</button></p>
     
 
 news: true  # includes a list of news items
