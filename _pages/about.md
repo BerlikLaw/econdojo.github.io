@@ -15,8 +15,9 @@ profile:
     <br>St. Louis, MO 63108-3397
     <br>Phone: +1(314)977-2123
     <br>Email: <a href="mailto:tanf@slu.edu" target="_blank">tanf [at] slu.edu </a>
-    <br>
-    <br><button class="sponsor" onclick=window.open("https://econdojo.github.io/assets/img/paypal.jpg","demo","width=500,height=500,left=500,top=200,toolbar=0,status=0,")>💚 Sponsor</button><button class="sponsor" onclick=window.open("https://econdojo.github.io/assets/img/paypal.jpg","demo","width=500,height=500,left=500,top=200,toolbar=0,status=0,")>💚 Sponsor</button></p>
+    <br></p>
+    <p style="font-size:15px; font-weight:bold"><br>Sponsor 💚 </p>
+    <br><button class="sponsor" onclick=window.open("https://econdojo.github.io/assets/img/paypal.jpg","demo","width=500,height=500,left=500,top=200,toolbar=0,status=0,")>Sponsor</button>&nbsp;<button class="sponsor" onclick=window.open("https://econdojo.github.io/assets/img/paypal.jpg","demo","width=500,height=500,left=500,top=200,toolbar=0,status=0,")>💚 Sponsor</button>
     
 
 news: true  # includes a list of news items
