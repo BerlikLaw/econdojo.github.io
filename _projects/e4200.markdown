@@ -2,7 +2,7 @@
 layout: page
 title: Blockchain and Money &nbsp;
 description: ECON 4200 • Spring 2023 • Saint Louis University
-img: /assets/img/e4200.jpeg
+img: /assets/img/e4200.jpg
 importance: 3
 category: Undergraduate
 ---

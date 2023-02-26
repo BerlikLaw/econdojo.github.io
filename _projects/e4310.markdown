@@ -2,7 +2,7 @@
 layout: page
 title: International Macroeconomics
 description: ECON 4310 • Spring 2022 • Saint Louis University
-img: /assets/img/e4310.jpeg
+img: /assets/img/e4310.jpg
 importance: 2
 category: Undergraduate
 ---
