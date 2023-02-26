@@ -2,7 +2,7 @@
 layout: page
 title: Bayesian DSGE Models &nbsp;
 description: ECON 6120 • Summer 2023 • Saint Louis University
-img: /assets/img/e6120.png
+img: /assets/img/e6120.jpg
 importance: 2
 category: Graduate
 ---
