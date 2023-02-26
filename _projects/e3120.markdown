@@ -2,7 +2,7 @@
 layout: page
 title: Intermediate Macroeconomics
 description: ECON 3120 • Spring 2023 • Saint Louis University
-img: /assets/img/bitcoin.png
+img: /assets/img/e3120.jpeg
 importance: 1
 category: Undergraduate
 ---
