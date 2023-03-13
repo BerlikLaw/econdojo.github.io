@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Economist <a href="https://twitter.com/SLU_Official">@SLU</a>, avid programmer & trader.
+description: Economist & data scientist <a href="https://twitter.com/SLU_Official">@SLU</a>, trader, software engineer.
 
 profile:
   align: right
@@ -24,7 +24,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-My research agenda is organized around three areas: `macroeconomics`, `Bayesian statistics`, and `evolutionary dynamics`. One line of my recent research develops frequency-domain approaches to solving and analyzing dynamic incomplete information models with applications to monetary economics and finance. Another line develops Markov chain Monte Carlo methods for estimating high-dimensional models adopted by central banks. I also conduct research on the evolution of cooperative and altruistic human behavior.
+Hi, FT aka Econ Dojo here. My research agenda is organized around three areas: `macroeconomics`, `Bayesian statistics`, and `evolutionary dynamics`. One line of my current research develops time and frequency-domain approaches to dynamic equilibrium models of expectations formation. Another line develops Markov chain Monte Carlo methods for estimating large-scale structural models. These tools are applied to study monetary and fiscal policy, asset prices, and a variety of related topics in macroeconomics and finance. Recently, I start to train Bayesian neural nets regularized by economic theory. My previous research studies the evolution of cooperative and altruistic human behavior.
 
 Currently, I teach macroeconomics and econometrics at Saint Louis University. Meanwhile, I am available on the industry job market for data scientist positions. I am also a thematic investor for space economy and have rich experience in derivative trading.
 
