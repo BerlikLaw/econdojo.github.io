@@ -1,7 +1,0 @@
-Cover image for course:
-
-Step 1: download crypto logo from https://cryptologos.cc/
-
-Step 2: resize image (500x500) using https://www.iloveimg.com/zh-cn
-
-Step 3: add white border (50 top-bottom, 150 left-right) using https://www4.lunapic.com/editor/
