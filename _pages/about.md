@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Economist & data scientist <a href="https://twitter.com/SLU_Official">@SLU</a> | space investor | software engineer.
+description: Economist | data scientist | space investor | software engineer.
 
 profile:
   align: right
