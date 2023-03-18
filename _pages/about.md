@@ -6,7 +6,7 @@ description: Economist | data scientist | space investor | software engineer.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.jpeg
   address: > 
     <p style="font-size:15px; font-weight:bold"><br>Contact 📮 </p>
     <p style="font-size:13px">Davis-Shaughnessy Hall 469A
