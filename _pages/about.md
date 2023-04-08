@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Economist | data scientist | educator | space investor | software engineer.
+description: Economist | engineer | educator | investor.
 
 profile:
   align: right
