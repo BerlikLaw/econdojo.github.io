@@ -35,4 +35,4 @@ This course provides a detailed coverage of Bayesian inferential methods and the
 * [Lecture 10: Bayesian DSGE Models](/assets/e6930/E6930Slides10.pdf){:target="\_blank"}
 * [Repository of Python programs](https://github.com/econdojo/py-bayes){:target="\_blank"}
 
-Acknowledgments: development of these lectures has been greatly benefited from discussions with Siddhartha Chib and Hailong Qian. [ChatGPT](https://openai.com/blog/chatgpt){:target="\_blank"} provides excellent teaching assistance on Python programs.
+Acknowledgments: development of these lectures has been greatly benefited from discussions with Siddhartha Chib and Hailong Qian. [ChatGPT](https://openai.com/blog/chatgpt){:target="\_blank"} and [GitHub Copilot](https://github.com/features/copilot){:target="\_blank"} provide excellent teaching assistance on Python programs.
