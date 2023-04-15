@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Introduction to Machine Learning &nbsp;
-description: ECON XXXX • Spring 2023 • Saint Louis University
+description: ECON XXXX • TBA • Saint Louis University
 img: /assets/img/exxxx.jpg
 importance: 3
 category: Graduate
