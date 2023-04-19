@@ -4,4 +4,4 @@ date: 2022-12-10 15:59:00-0400
 inline: true
 ---
 
-[FSD Beta 10.69 test drive in St. Louis](https://www.youtube.com/watch?v=p4iQ9Nb5QWw){:target="\_blank"}
+[Can Autonomous Driving Pass Safety Test?](https://www.youtube.com/watch?v=BJ22ghurJn0){:target="\_blank"}
