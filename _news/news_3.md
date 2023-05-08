@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-04-10 15:59:00-0400
+date: 2023-05-07 15:59:00-0400
 inline: true
 ---
 
-[Complete materials of Applied Bayes Stats](https://econdojo.github.io/courses/e6930){:target="\_blank"}
+[Electron deployed 2 NASA TROPICS satellites](https://twitter.com/Peter_J_Beck/status/1655392490189635584){:target="\_blank"}
