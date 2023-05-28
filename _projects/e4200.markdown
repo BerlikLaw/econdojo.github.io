@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Monetary Economics &nbsp;
+title: Monetary Economics &nbsp; &nbsp;
 description: ECON 4200 • Spring 2024 • Saint Louis University
 img: /assets/img/e4200.jpg
 importance: 3
