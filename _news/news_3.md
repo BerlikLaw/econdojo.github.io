@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-05-07 15:59:00-0400
+date: 2023-06-17 15:59:00-0400
 inline: true
 ---
 
-[Electron deployed 2 NASA TROPICS satellites](https://twitter.com/Peter_J_Beck/status/1655392490189635584){:target="\_blank"}
+[Rocket Lab successfully launched HASTE](https://www.rocketlabusa.com/updates/rocket-lab-debuts-haste-rocket-with-first-successful-suborbital-launch-from-virginia/){:target="\_blank"}
